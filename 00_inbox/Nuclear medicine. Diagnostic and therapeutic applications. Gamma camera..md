@@ -1,1 +1,1 @@
-![izotop_EM_2025_12_03.pdf](01_Assets/Attachments/izotop_EM_2025_12_03.pdf)
+![izotop_EM_2025_12_03.pdf](izotop_EM_2025_12_03.pdf)

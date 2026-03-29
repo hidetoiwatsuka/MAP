@@ -1,1 +1,1 @@
-![stomach small intestine (dragged).pdf](01_Assets/Attachments/stomach%20small%20intestine%20%28dragged%29.pdf)
+![stomach small intestine (dragged).pdf](stomach%20small%20intestine%20(dragged).pdf)

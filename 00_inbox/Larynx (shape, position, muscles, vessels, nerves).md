@@ -1,1 +1,1 @@
-![04_Larynx_Székely_2026 (dragged).pdf](01_Assets/Attachments/04_Larynx_Sz%C3%A9kely_2026%20%28dragged%29.pdf)
+![04_Larynx_Székely_2026 (dragged).pdf](04_Larynx_Székely_2026%20(dragged).pdf)

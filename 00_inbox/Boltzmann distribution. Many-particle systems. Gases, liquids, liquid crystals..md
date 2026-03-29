@@ -1,1 +1,1 @@
-![06_Boltzmann_States_2025.pdf](01_Assets/Attachments/06_Boltzmann_States_2025.pdf)
+![06_Boltzmann_States_2025.pdf](06_Boltzmann_States_2025.pdf)

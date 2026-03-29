@@ -11,10 +11,10 @@
 
 ### Thymus
 
-![Pasted image 20260324114208.png](01_Assets/Attachments/Pasted%20image%2020260324114208.png)(100a)
+![Pasted image 20260324114208.png](Pasted%20image%2020260324114208.png)(100a)
 
 #### capsule : thin dense connective tissue
-![Pasted image 20260324120234.png](01_Assets/Attachments/Pasted%20image%2020260324120234.png)(100a)
+![Pasted image 20260324120234.png](Pasted%20image%2020260324120234.png)(100a)
 
 #### cortex & medulla (Lobule)
 
@@ -65,7 +65,7 @@ fn main() {
 }
 ```
 
-![Pasted image 20260324122339.png](01_Assets/Attachments/Pasted%20image%2020260324122339.png)(100a)
+![Pasted image 20260324122339.png](Pasted%20image%2020260324122339.png)(100a)
 #### Thymus cellular components
 **cortex**
 

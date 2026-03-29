@@ -1,1 +1,1 @@
-![01_Székely EM I nasal cavity_ 2026.02.16-17. (dragged) 2.pdf](01_Assets/Attachments/01_Sz%C3%A9kely%20EM%20I%20nasal%20cavity_%202026.02.16-17.%20%28dragged%29%202.pdf)
+![01_Székely EM I nasal cavity_ 2026.02.16-17. (dragged) 2.pdf](01_Székely%20EM%20I%20nasal%20cavity_%202026.02.16-17.%20(dragged)%202.pdf)

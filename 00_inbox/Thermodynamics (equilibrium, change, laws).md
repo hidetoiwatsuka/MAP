@@ -1,1 +1,1 @@
-![Thermodynamics_20260311.pdf](01_Assets/Attachments/Thermodynamics_20260311.pdf)
+![Thermodynamics_20260311.pdf](Thermodynamics_20260311.pdf)

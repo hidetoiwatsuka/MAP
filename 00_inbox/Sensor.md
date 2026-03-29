@@ -6,7 +6,7 @@ The nervous system has to answer two questions about any stimulus:
 1. **Is something happening?** → Receptor potential
 2. **How intense is it?** → Psychophysical laws (Weber-Fechner, Stevens)
 
-![Pasted image 20260327124455.png](01_Assets/Attachments/Pasted%20image%2020260327124455.png)
+![Pasted image 20260327124455.png](Pasted%20image%2020260327124455.png)
 
 ---
 

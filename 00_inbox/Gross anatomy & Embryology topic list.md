@@ -80,10 +80,10 @@ tags:
 
 ### Internal Organs of the Head & Neck (Morphology and Development)
 
-- [Oral cavity (divisions, boundaries)](Oral%20cavity%20%28divisions%2C%20boundaries%29.md)
-- [Floor of mouth, sulcus lateralis linguae](Floor%20of%20mouth%2C%20sulcus%20lateralis%20linguae.md)
+- [Oral cavity (divisions, boundaries)](Oral%20cavity%20(divisions,%20boundaries).md)
+- [Floor of mouth, sulcus lateralis linguae](Floor%20of%20mouth,%20sulcus%20lateralis%20linguae.md)
 - [Macroscopy of the tongue](Macroscopy%20of%20the%20tongue.md)
-- [Types and morphology of teeth, blood supply and innervation](Types%20and%20morphology%20of%20teeth%2C%20blood%20supply%20and%20innervation.md)
+- [Types and morphology of teeth, blood supply and innervation](Types%20and%20morphology%20of%20teeth,%20blood%20supply%20and%20innervation.md)
 - [Tooth development](Tooth%20development.md)
 - [Salivary glands together with topography](Salivary%20glands%20together%20with%20topography.md)
 - [Faucial isthmus, palate. Tonsils](Faucial%20isthmus%2C%20palate.%20Tonsils.md)
@@ -113,9 +113,9 @@ tags:
 - [Pulse generating and conducting system of heart](Pulse%20generating%20and%20conducting%20system%20of%20heart.md)
 - [Pericardium](Pericardium.md)
 - [Position and surface projections of heart](Position%20and%20surface%20projections%20of%20heart.md)
-- [Percussion and auscultation (area of cardiac dullness, heart sounds)](Percussion%20and%20auscultation%20%28area%20of%20cardiac%20dullness%2C%20heart%20sounds%29.md)
+- [Percussion and auscultation (area of cardiac dullness, heart sounds)](Percussion%20and%20auscultation%20%28area%20of%20cardiac%20dullness,%20heart%20sounds%29.md)
 - [Radiology of heart](Radiology%20of%20heart.md)
-- [Early circulation (formation of vessels, basic vascular systems of the embryo-fetus)](Early%20circulation%20%28formation%20of%20vessels%2C%20basic%20vascular%20systems%20of%20the%20embryo-fetus%29.md)
+- [Early circulation (formation of vessels, basic vascular systems of the embryo-fetus)](Early%20circulation%20%28formation%20of%20vessels,%20basic%20vascular%20systems%20of%20the%20embryo-fetus%29.md)
 - [Heart development](Heart%20development.md)
 - [Pulmonary circulation](Pulmonary%20circulation.md)
 - [Ascending aorta, arch of aorta and its branches](Ascending%20aorta%2C%20arch%20of%20aorta%20and%20its%20branches.md)
@@ -207,4 +207,4 @@ tags:
 - Eyelids, conjunctiva, fasciae of the orbit, lacrimal apparatus
 
 read before exam
-![Macroscopic Anatomy II.pdf](01_Assets/Attachments/Macroscopic%20Anatomy%20II.pdf)
+![Macroscopic Anatomy II.pdf](Macroscopic%20Anatomy%20II.pdf)

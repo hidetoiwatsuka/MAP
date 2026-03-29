@@ -1,1 +1,1 @@
-![Ultrasound_20260304.pdf](01_Assets/Attachments/Ultrasound_20260304.pdf)
+![Ultrasound_20260304.pdf](Ultrasound_20260304.pdf)

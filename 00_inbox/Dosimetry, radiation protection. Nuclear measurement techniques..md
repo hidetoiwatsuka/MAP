@@ -1,1 +1,1 @@
-![12_Detection_Dosimetry_2025_ver21.pdf](01_Assets/Attachments/12_Detection_Dosimetry_2025_ver21.pdf)
+![12_Detection_Dosimetry_2025_ver21.pdf](12_Detection_Dosimetry_2025_ver21.pdf)

@@ -59,13 +59,13 @@ Life operates as a recurring cycle:
      │                                               │
      ├──→ Positive signal (+)                        │
      │    state ≥ reference                          │
-     │    ├─ If immature: dopaminergic response      │
+     │    ├─ dopaminergic response          　　　　　 │
      │    │  (pursue more, chase next high)          │
-     │    └─ If mature: serotonergic response        │
+     │    └─ serotonergic response                   │
      │       (maintain, appreciate, sustain)         │
      │       │                                       │
      │       └──→ FUNCTION ACQUIRED ────────────────►│
-     │            (what works, what satisfies)        │
+     │            (what works, what satisfies)       │
      │                                               │
      └──→ Negative signal (−)                        │
           state < reference                          │
@@ -75,7 +75,7 @@ Life operates as a recurring cycle:
           │  (seek new input, try different process) │
           │  │                                       │
           │  └──→ FUNCTION ACQUIRED ────────────────►│
-          │       (what to avoid, what to fix)        │
+          │       (what to avoid, what to fix)       │
           │                                          │
           └─ If comfort despite negative signal      │
              → stagnation (no function update)       │

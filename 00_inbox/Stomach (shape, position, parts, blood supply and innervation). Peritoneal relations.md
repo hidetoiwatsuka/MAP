@@ -1,1 +1,1 @@
-![16_Stomach_ÁdámÁ.pdf](01_Assets/Attachments/16_Stomach_%C3%81d%C3%A1m%C3%81.pdf)![stomach small intestine (dragged) 2.pdf](01_Assets/Attachments/stomach%20small%20intestine%20%28dragged%29%202.pdf)
+![16_Stomach_ÁdámÁ.pdf](16_Stomach_ÁdámÁ.pdf)![stomach small intestine (dragged) 2.pdf](stomach%20small%20intestine%20(dragged)%202.pdf)
