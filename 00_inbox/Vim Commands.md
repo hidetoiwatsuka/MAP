@@ -281,6 +281,6 @@ Normalモードで`:`を押すと入る。ファイル操作やシステムコ�
 
 ## Related Concepts
 
-- [[Terminal Commands]] — Vimはターミナル内で動くエディタ
-- [[Functions]] — Vimの動詞+名詞の文法は関数の合成（操作 × 対象 = 結果）
-- [[Learning]] — Vimの習得は典型的なinput-output-feedback loop
+- [Terminal Commands](Terminal%20Commands.md) — Vimはターミナル内で動くエディタ
+- [Functions](Functions.md) — Vimの動詞+名詞の文法は関数の合成（操作 × 対象 = 結果）
+- [Learning](Learning.md) — Vimの習得は典型的なinput-output-feedback loop

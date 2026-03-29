@@ -308,7 +308,7 @@ ln -s ~/Library/Mobile\ Documents/com~apple~CloudDocs ~/iCloud
 
 ## Related Concepts
 
-- [[Functions]] — Git commands as input-output transformations
-- [[Terminal Commands]] — Git runs in the terminal
-- [[Learning]] — commit history is externalized learning — making the invisible visible
+- [Functions](Functions.md) — Git commands as input-output transformations
+- [Terminal Commands](Terminal%20Commands.md) — Git runs in the terminal
+- [Learning](Learning.md) — commit history is externalized learning — making the invisible visible
 

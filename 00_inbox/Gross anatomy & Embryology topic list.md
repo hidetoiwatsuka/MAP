@@ -80,108 +80,108 @@ tags:
 
 ### Internal Organs of the Head & Neck (Morphology and Development)
 
-- [[Oral cavity (divisions, boundaries)]]
-- [[Floor of mouth, sulcus lateralis linguae]]
-- [[Macroscopy of the tongue]]
-- [[Types and morphology of teeth, blood supply and innervation]]
-- [[Tooth development]]
-- [[Salivary glands together with topography]]
-- [[Faucial isthmus, palate. Tonsils]]
-- [[Pharynx and parapharyngeal spaces]]
-- [[Blood supply and innervation of pharynx]]
-- [[Pharyngeal muscles]]
-- [[Nose, nasal cavity (boundaries, nasal meatus, vessels)]]
-- [[Paranasal sinuses (connections, vessels)]]
-- [[Larynx (shape, position, muscles, vessels, nerves)]]
-- [[Skeleton and joints of larynx together with the fibroelastic membranes, mucous membrane]]
-- [[Common and external carotid arteries and their branches. Maxillary artery and its branches]]
-- [[Venous drainage of face and neck]]
-- [[Lymph nodes and lymphatic vessels of the head & neck]]
-- [[Development of the face, including the development of the oral and nasal cavities]]
-- [[Development and differentiation of the foregut]]
-- [[Derivatives of the branchial arches]]
-- [[Derivatives of the branchial pouches and grooves]]
-- [[Development of the teeth and tongue]]
+- [Oral cavity (divisions, boundaries)](Oral%20cavity%20%28divisions%2C%20boundaries%29.md)
+- [Floor of mouth, sulcus lateralis linguae](Floor%20of%20mouth%2C%20sulcus%20lateralis%20linguae.md)
+- [Macroscopy of the tongue](Macroscopy%20of%20the%20tongue.md)
+- [Types and morphology of teeth, blood supply and innervation](Types%20and%20morphology%20of%20teeth%2C%20blood%20supply%20and%20innervation.md)
+- [Tooth development](Tooth%20development.md)
+- [Salivary glands together with topography](Salivary%20glands%20together%20with%20topography.md)
+- [Faucial isthmus, palate. Tonsils](Faucial%20isthmus%2C%20palate.%20Tonsils.md)
+- [Pharynx and parapharyngeal spaces](Pharynx%20and%20parapharyngeal%20spaces.md)
+- [Blood supply and innervation of pharynx](Blood%20supply%20and%20innervation%20of%20pharynx.md)
+- [Pharyngeal muscles](Pharyngeal%20muscles.md)
+- [Nose, nasal cavity (boundaries, nasal meatus, vessels)](Nose%2C%20nasal%20cavity%20%28boundaries%2C%20nasal%20meatus%2C%20vessels%29.md)
+- [Paranasal sinuses (connections, vessels)](Paranasal%20sinuses%20%28connections%2C%20vessels%29.md)
+- [Larynx (shape, position, muscles, vessels, nerves)](Larynx%20%28shape%2C%20position%2C%20muscles%2C%20vessels%2C%20nerves%29.md)
+- [Skeleton and joints of larynx together with the fibroelastic membranes, mucous membrane](Skeleton%20and%20joints%20of%20larynx%20together%20with%20the%20fibroelastic%20membranes%2C%20mucous%20membrane.md)
+- [Common and external carotid arteries and their branches. Maxillary artery and its branches](Common%20and%20external%20carotid%20arteries%20and%20their%20branches.%20Maxillary%20artery%20and%20its%20branches.md)
+- [Venous drainage of face and neck](Venous%20drainage%20of%20face%20and%20neck.md)
+- [Lymph nodes and lymphatic vessels of the head & neck](Lymph%20nodes%20and%20lymphatic%20vessels%20of%20the%20head%20%26%20neck.md)
+- [Development of the face, including the development of the oral and nasal cavities](Development%20of%20the%20face%2C%20including%20the%20development%20of%20the%20oral%20and%20nasal%20cavities.md)
+- [Development and differentiation of the foregut](Development%20and%20differentiation%20of%20the%20foregut.md)
+- [Derivatives of the branchial arches](Derivatives%20of%20the%20branchial%20arches.md)
+- [Derivatives of the branchial pouches and grooves](Derivatives%20of%20the%20branchial%20pouches%20and%20grooves.md)
+- [Development of the teeth and tongue](Development%20of%20the%20teeth%20and%20tongue.md)
 
 ### Circulatory System (Morphology and Development)
 
-- [[Shape, external features of heart]]
-- [[Chambers of heart]]
-- [[Endocardium, ostia, valves of heart]]
-- [[Skeleton of heart, anuli fibrosi]]
-- [[Structure of heart wall]]
-- [[Pulse generating and conducting system of heart]]
-- [[Pericardium]]
-- [[Position and surface projections of heart]]
-- [[Percussion and auscultation (area of cardiac dullness, heart sounds)]]
-- [[Radiology of heart]]
-- [[Early circulation (formation of vessels, basic vascular systems of the embryo/fetus)]]
-- [[Heart development]]
-- [[Pulmonary circulation]]
-- [[Ascending aorta, arch of aorta and its branches]]
-- [[Subclavian artery and its branches]]
-- [[Thoracic aorta and its branches]]
-- [[Abdominal aorta and its branches]]
-- [[Development of arteries (aorta, branchial arterious arches, umbilical arteries)]]
-- [[Celiac trunk and its branches]]
-- [[Superior mesenteric artery and its branches]]
-- [[Inferior mesenteric artery and its branches]]
-- [[External and internal iliac arteries and their branches]]
-- [[Internal pudendal artery and its branches]]
-- [[Superior vena cava and its tributaries]]
-- [[Inferior vena cava and its tributaries]]
-- [[Azygos and hemiazygos veins and their tributaries]]
-- [[Portal vein and its tributaries, portocaval anastomoses]]
-- [[Development of veins (inferior v. cava, portal v., superior v. cava, azygos and hemiazygos veins)]]
-- [[Fetal circulation]]
-- [[Lymphatic drainage of the abdominal and pelvic organs]]
-- [[Thoracic duct, right lymphatic trunk]]
+- [Shape, external features of heart](Shape%2C%20external%20features%20of%20heart.md)
+- [Chambers of heart](Chambers%20of%20heart.md)
+- [Endocardium, ostia, valves of heart](Endocardium%2C%20ostia%2C%20valves%20of%20heart.md)
+- [Skeleton of heart, anuli fibrosi](Skeleton%20of%20heart%2C%20anuli%20fibrosi.md)
+- [Structure of heart wall](Structure%20of%20heart%20wall.md)
+- [Pulse generating and conducting system of heart](Pulse%20generating%20and%20conducting%20system%20of%20heart.md)
+- [Pericardium](Pericardium.md)
+- [Position and surface projections of heart](Position%20and%20surface%20projections%20of%20heart.md)
+- [Percussion and auscultation (area of cardiac dullness, heart sounds)](Percussion%20and%20auscultation%20%28area%20of%20cardiac%20dullness%2C%20heart%20sounds%29.md)
+- [Radiology of heart](Radiology%20of%20heart.md)
+- [Early circulation (formation of vessels, basic vascular systems of the embryo-fetus)](Early%20circulation%20%28formation%20of%20vessels%2C%20basic%20vascular%20systems%20of%20the%20embryo-fetus%29.md)
+- [Heart development](Heart%20development.md)
+- [Pulmonary circulation](Pulmonary%20circulation.md)
+- [Ascending aorta, arch of aorta and its branches](Ascending%20aorta%2C%20arch%20of%20aorta%20and%20its%20branches.md)
+- [Subclavian artery and its branches](Subclavian%20artery%20and%20its%20branches.md)
+- [Thoracic aorta and its branches](Thoracic%20aorta%20and%20its%20branches.md)
+- [Abdominal aorta and its branches](Abdominal%20aorta%20and%20its%20branches.md)
+- [Development of arteries (aorta, branchial arterious arches, umbilical arteries)](Development%20of%20arteries%20%28aorta%2C%20branchial%20arterious%20arches%2C%20umbilical%20arteries%29.md)
+- [Celiac trunk and its branches](Celiac%20trunk%20and%20its%20branches.md)
+- [Superior mesenteric artery and its branches](Superior%20mesenteric%20artery%20and%20its%20branches.md)
+- [Inferior mesenteric artery and its branches](Inferior%20mesenteric%20artery%20and%20its%20branches.md)
+- [External and internal iliac arteries and their branches](External%20and%20internal%20iliac%20arteries%20and%20their%20branches.md)
+- [Internal pudendal artery and its branches](Internal%20pudendal%20artery%20and%20its%20branches.md)
+- [Superior vena cava and its tributaries](Superior%20vena%20cava%20and%20its%20tributaries.md)
+- [Inferior vena cava and its tributaries](Inferior%20vena%20cava%20and%20its%20tributaries.md)
+- [Azygos and hemiazygos veins and their tributaries](Azygos%20and%20hemiazygos%20veins%20and%20their%20tributaries.md)
+- [Portal vein and its tributaries, portocaval anastomoses](Portal%20vein%20and%20its%20tributaries%2C%20portocaval%20anastomoses.md)
+- [Development of veins (inferior v. cava, portal v., superior v. cava, azygos and hemiazygos veins)](Development%20of%20veins%20%28inferior%20v.%20cava%2C%20portal%20v.%2C%20superior%20v.%20cava%2C%20azygos%20and%20hemiazygos%20veins%29.md)
+- [Fetal circulation](Fetal%20circulation.md)
+- [Lymphatic drainage of the abdominal and pelvic organs](Lymphatic%20drainage%20of%20the%20abdominal%20and%20pelvic%20organs.md)
+- [Thoracic duct, right lymphatic trunk](Thoracic%20duct%2C%20right%20lymphatic%20trunk.md)
 
 ### Morphology and Development of the Thoracic, Abdominal and Pelvic Organs
 
-- [[Trachea and bronchial tree]]
-- [[Lung (shape, parts, surfaces, hilum)]]
-- [[Lung (position, topography, vessels, nerves)]]
-- [[Surface projection of pleura and lung]]
-- [[Pleura, pleural cavity]]
-- [[Mediastinum (divisions and content)]]
-- [[Development of the lower airways including the lung]]
-- [[Description and topography of the esophagus]]
-- [[Stomach (shape, position, parts, blood supply and innervation). Peritoneal relations]]
-- [[Small Intestine (shape, position, divisions, vessels)]]
-- [[Large intestine (shape, position, vessels)]]
-- [[Rectum, anal canal (shape, position, vessels)]]
-- [[Liver (shape, position, peritoneal relations, vessels)]]
-- [[Gall bladder and biliary passages (anatomy)]]
-- [[Pancreas (shape, position, vessels)]]
-- [[Peritoneum, greater and lesser omentum, mesentery, omental bursa]]
-- [[Formation and differentiation of the midgut]]
-- [[Formation and differentiation of the hindgut]]
-- [[Development of liver and pancreas]]
-- [[Development of the peritoneum]]
-- [[Formation of body cavities, development of the diaphragm]]
-- [[Kidney (shape, position, hilum, sinus, capsules, vascular architecture)]]
-- [[Renal pelvis and calyces. Ureter]]
-- [[Urinary bladder (shape, position, muscles, vessels)]]
-- [[Female urethra]]
-- [[Male urethra, bulbourethral gland]]
-- [[Development of kidneys]]
-- [[Development of urinary passages]]
-- [[Testis (shape, position, vessels). Scrotum, coats of testis]]
-- [[Epididymis, vas (ductus) deferens, spermatic cord]]
-- [[Seminal vesicle, prostate]]
-- [[Penis (shape, position, mechanism of erection, vessels, nerves)]]
-- [[Pelvic floor, male perineum (connective tissue spaces)]]
-- [[Hernia canals (inguinal and femoral)]]
-- [[Ovary (shape, position, vessels)]]
-- [[Uterine tube (shape, position, vessels)]]
-- [[Uterus (shape, parts, position, supporting structures, vessels). Broad ligament]]
-- [[Vagina, female perineum (connective tissue spaces)]]
-- [[External female genital organs (mons pubis, labia, vestibule of vagina, greater vestibular gland, vessels)]]
-- [[Development of gonads, formation and migration of primordial germ cells]]
-- [[Development of male genital system]]
-- [[Development of female genital system]]
-- [[Development of the external genital organs]]
+- [Trachea and bronchial tree](Trachea%20and%20bronchial%20tree.md)
+- [Lung (shape, parts, surfaces, hilum)](Lung%20%28shape%2C%20parts%2C%20surfaces%2C%20hilum%29.md)
+- [Lung (position, topography, vessels, nerves)](Lung%20%28position%2C%20topography%2C%20vessels%2C%20nerves%29.md)
+- [Surface projection of pleura and lung](Surface%20projection%20of%20pleura%20and%20lung.md)
+- [Pleura, pleural cavity](Pleura%2C%20pleural%20cavity.md)
+- [Mediastinum (divisions and content)](Mediastinum%20%28divisions%20and%20content%29.md)
+- [Development of the lower airways including the lung](Development%20of%20the%20lower%20airways%20including%20the%20lung.md)
+- [Description and topography of the esophagus](Description%20and%20topography%20of%20the%20esophagus.md)
+- [Stomach (shape, position, parts, blood supply and innervation). Peritoneal relations](Stomach%20%28shape%2C%20position%2C%20parts%2C%20blood%20supply%20and%20innervation%29.%20Peritoneal%20relations.md)
+- [Small Intestine (shape, position, divisions, vessels)](Small%20Intestine%20%28shape%2C%20position%2C%20divisions%2C%20vessels%29.md)
+- [Large intestine (shape, position, vessels)](Large%20intestine%20%28shape%2C%20position%2C%20vessels%29.md)
+- [Rectum, anal canal (shape, position, vessels)](Rectum%2C%20anal%20canal%20%28shape%2C%20position%2C%20vessels%29.md)
+- [Liver (shape, position, peritoneal relations, vessels)](Liver%20%28shape%2C%20position%2C%20peritoneal%20relations%2C%20vessels%29.md)
+- [Gall bladder and biliary passages (anatomy)](Gall%20bladder%20and%20biliary%20passages%20%28anatomy%29.md)
+- [Pancreas (shape, position, vessels)](Pancreas%20%28shape%2C%20position%2C%20vessels%29.md)
+- [Peritoneum, greater and lesser omentum, mesentery, omental bursa](Peritoneum%2C%20greater%20and%20lesser%20omentum%2C%20mesentery%2C%20omental%20bursa.md)
+- [Formation and differentiation of the midgut](Formation%20and%20differentiation%20of%20the%20midgut.md)
+- [Formation and differentiation of the hindgut](Formation%20and%20differentiation%20of%20the%20hindgut.md)
+- [Development of liver and pancreas](Development%20of%20liver%20and%20pancreas.md)
+- [Development of the peritoneum](Development%20of%20the%20peritoneum.md)
+- [Formation of body cavities, development of the diaphragm](Formation%20of%20body%20cavities%2C%20development%20of%20the%20diaphragm.md)
+- [Kidney (shape, position, hilum, sinus, capsules, vascular architecture)](Kidney%20%28shape%2C%20position%2C%20hilum%2C%20sinus%2C%20capsules%2C%20vascular%20architecture%29.md)
+- [Renal pelvis and calyces. Ureter](Renal%20pelvis%20and%20calyces.%20Ureter.md)
+- [Urinary bladder (shape, position, muscles, vessels)](Urinary%20bladder%20%28shape%2C%20position%2C%20muscles%2C%20vessels%29.md)
+- [Female urethra](Female%20urethra.md)
+- [Male urethra, bulbourethral gland](Male%20urethra%2C%20bulbourethral%20gland.md)
+- [Development of kidneys](Development%20of%20kidneys.md)
+- [Development of urinary passages](Development%20of%20urinary%20passages.md)
+- [Testis (shape, position, vessels). Scrotum, coats of testis](Testis%20%28shape%2C%20position%2C%20vessels%29.%20Scrotum%2C%20coats%20of%20testis.md)
+- [Epididymis, vas (ductus) deferens, spermatic cord](Epididymis%2C%20vas%20%28ductus%29%20deferens%2C%20spermatic%20cord.md)
+- [Seminal vesicle, prostate](Seminal%20vesicle%2C%20prostate.md)
+- [Penis (shape, position, mechanism of erection, vessels, nerves)](Penis%20%28shape%2C%20position%2C%20mechanism%20of%20erection%2C%20vessels%2C%20nerves%29.md)
+- [Pelvic floor, male perineum (connective tissue spaces)](Pelvic%20floor%2C%20male%20perineum%20%28connective%20tissue%20spaces%29.md)
+- [Hernia canals (inguinal and femoral)](Hernia%20canals%20%28inguinal%20and%20femoral%29.md)
+- [Ovary (shape, position, vessels)](Ovary%20%28shape%2C%20position%2C%20vessels%29.md)
+- [Uterine tube (shape, position, vessels)](Uterine%20tube%20%28shape%2C%20position%2C%20vessels%29.md)
+- [Uterus (shape, parts, position, supporting structures, vessels). Broad ligament](Uterus%20%28shape%2C%20parts%2C%20position%2C%20supporting%20structures%2C%20vessels%29.%20Broad%20ligament.md)
+- [Vagina, female perineum (connective tissue spaces)](Vagina%2C%20female%20perineum%20%28connective%20tissue%20spaces%29.md)
+- [External female genital organs (mons pubis, labia, vestibule of vagina, greater vestibular gland, vessels)](External%20female%20genital%20organs%20%28mons%20pubis%2C%20labia%2C%20vestibule%20of%20vagina%2C%20greater%20vestibular%20gland%2C%20vessels%29.md)
+- [Development of gonads, formation and migration of primordial germ cells](Development%20of%20gonads%2C%20formation%20and%20migration%20of%20primordial%20germ%20cells.md)
+- [Development of male genital system](Development%20of%20male%20genital%20system.md)
+- [Development of female genital system](Development%20of%20female%20genital%20system.md)
+- [Development of the external genital organs](Development%20of%20the%20external%20genital%20organs.md)
 
 ### Macroscopy of the Nervous System
 
@@ -207,4 +207,4 @@ tags:
 - Eyelids, conjunctiva, fasciae of the orbit, lacrimal apparatus
 
 read before exam
-![[Macroscopic Anatomy II.pdf]]
+![Macroscopic Anatomy II.pdf](01_Assets/Attachments/Macroscopic%20Anatomy%20II.pdf)

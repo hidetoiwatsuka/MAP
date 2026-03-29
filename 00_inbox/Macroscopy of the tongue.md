@@ -1,1 +1,1 @@
-![[oral cavity (dragged) 2.pdf]]
+![oral cavity (dragged) 2.pdf](01_Assets/Attachments/oral%20cavity%20%28dragged%29%202.pdf)

@@ -206,8 +206,8 @@ Four inputs, modulated by balance and time, producing a single emergent output. 
 
 ## Related Concepts
 
-- [[Functions]]— this model is a composite function with feedback loops
-- [[Systems Theory]] — relationships as dynamic systems with equilibrium states
-- [[Neurotransmitters]] — dopamine, serotonin, oxytocin as biological substrate
-- [[Game Theory]] — reciprocal exchange as iterated prisoner's dilemma
-- [[Signal Theory]] — costly signaling and credibility in social bonds
+- [Functions](Functions.md)— this model is a composite function with feedback loops
+- [Systems Theory](Systems%20Theory.md) — relationships as dynamic systems with equilibrium states
+- [Neurotransmitters](Neurotransmitters.md) — dopamine, serotonin, oxytocin as biological substrate
+- [Game Theory](Game%20Theory.md) — reciprocal exchange as iterated prisoner's dilemma
+- [Signal Theory](Signal%20Theory.md) — costly signaling and credibility in social bonds

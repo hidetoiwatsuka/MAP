@@ -212,8 +212,8 @@ If this model is useful — if it helps you predict, explain, or navigate learni
 
 ## Related Concepts
 
-- [[Functions]] — the universal framework that learning builds upon
-- [[Sustainable Human Relationships]] — social functions built through exchange cycles
-- [[Prediction Error]] — the dopaminergic signal that drives function updates
-- [[Neuroplasticity]] — the biological substrate that enables function construction
-- [[Abstraction]] — recognizing shared function structures across domains
+- [Functions](Functions.md) — the universal framework that learning builds upon
+- [Sustainable Human Relationships](Sustainable%20Human%20Relationships.md) — social functions built through exchange cycles
+- [Prediction Error](Prediction%20Error.md) — the dopaminergic signal that drives function updates
+- [Neuroplasticity](Neuroplasticity.md) — the biological substrate that enables function construction
+- [Abstraction](Abstraction.md) — recognizing shared function structures across domains

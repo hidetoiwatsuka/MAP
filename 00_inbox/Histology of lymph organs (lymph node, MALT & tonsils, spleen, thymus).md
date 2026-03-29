@@ -1,4 +1,4 @@
-![[immun s, thymus, tonsils.pdf]]
+![immun s, thymus, tonsils.pdf](01_Assets/Attachments/immun%20s%2C%20thymus%2C%20tonsils.pdf)
 
 
 
@@ -11,10 +11,10 @@
 
 ### Thymus
 
-![[Pasted image 20260324114208.png]](100a)
+![Pasted image 20260324114208.png](01_Assets/Attachments/Pasted%20image%2020260324114208.png)(100a)
 
 #### capsule : thin dense connective tissue
-![[Pasted image 20260324120234.png]](100a)
+![Pasted image 20260324120234.png](01_Assets/Attachments/Pasted%20image%2020260324120234.png)(100a)
 
 #### cortex & medulla (Lobule)
 
@@ -65,7 +65,7 @@ fn main() {
 }
 ```
 
-![[Pasted image 20260324122339.png]](100a)
+![Pasted image 20260324122339.png](01_Assets/Attachments/Pasted%20image%2020260324122339.png)(100a)
 #### Thymus cellular components
 **cortex**
 
@@ -95,7 +95,7 @@ Hassall's body
 - function: may promote regulatory T cell differentiation
 ### Tonsils
 
-[[Types of Immunity.canvas]]
+[Types of Immunity.canvas](Types%20of%20Immunity.canvas)
 
 ### Lymph nodes
 

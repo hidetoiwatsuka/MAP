@@ -1,1 +1,1 @@
-![[19_ColonRectum_Székely_2026 1.pdf]]
+![19_ColonRectum_Székely_2026 1.pdf](01_Assets/Attachments/19_ColonRectum_Sz%C3%A9kely_2026%201.pdf)

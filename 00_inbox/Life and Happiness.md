@@ -147,7 +147,7 @@ What to do when things are good. How to maintain a good state without destabiliz
 
 $$\text{others' behavior + own position (input)} \xrightarrow{f} \text{appropriate response (output)}$$
 
-When to compete, when to cooperate, when to assert, when to yield. Built through social interaction loops. [[Sustainable Human Relationships]] describes the exchange dynamics that these functions navigate.
+When to compete, when to cooperate, when to assert, when to yield. Built through social interaction loops. [Sustainable Human Relationships](Sustainable%20Human%20Relationships.md) describes the exchange dynamics that these functions navigate.
 
 ---
 
@@ -204,8 +204,8 @@ Not the sum of happy moments. The integral of how well your functions processed 
 
 ## Related Concepts
 
-- [[Functions]] — the universal framework underlying this model
-- [[Learning]] — how the functions within this loop are acquired
-- [[Sustainable Human Relationships]] — social exchange as a major input to evaluation
-- [[Hedonic Adaptation]] — the mechanism by which reference points shift
-- [[Dopamine and Serotonin]] — the neurochemical substrate of the two positive modes
+- [Functions](Functions.md) — the universal framework underlying this model
+- [Learning](Learning.md) — how the functions within this loop are acquired
+- [Sustainable Human Relationships](Sustainable%20Human%20Relationships.md) — social exchange as a major input to evaluation
+- [Hedonic Adaptation](Hedonic%20Adaptation.md) — the mechanism by which reference points shift
+- [Dopamine and Serotonin](Dopamine%20and%20Serotonin.md) — the neurochemical substrate of the two positive modes

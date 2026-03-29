@@ -1,1 +1,1 @@
-![[18_ Liver, gallbladder (dragged) 2.pdf]]
+![18_ Liver, gallbladder (dragged) 2.pdf](01_Assets/Attachments/18_%20Liver%2C%20gallbladder%20%28dragged%29%202.pdf)

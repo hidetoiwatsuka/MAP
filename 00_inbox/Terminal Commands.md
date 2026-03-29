@@ -225,7 +225,7 @@ echo "world" >> file.txt      # file.txtに追記
 cargo build 2>&1 | less       # ビルドログをスクロール表示
 ```
 
-`|`（パイプ）はコマンドの出力を次のコマンドの入力にする — これも[[Functions]]の直列合成。
+`|`（パイプ）はコマンドの出力を次のコマンドの入力にする — これも[Functions](Functions.md)の直列合成。
 
 ---
 
@@ -327,5 +327,5 @@ git diff                      # 変更内容を表示
 
 ## Related Concepts
 
-- [[Functions]] — パイプ（`|`）はまさに関数の直列合成
-- [[Learning]] — コマンドも反復で内的関数になる
+- [Functions](Functions.md) — パイプ（`|`）はまさに関数の直列合成
+- [Learning](Learning.md) — コマンドも反復で内的関数になる

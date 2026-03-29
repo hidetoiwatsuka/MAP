@@ -18,4 +18,4 @@
 
 ---
 
-![[biochemistry_topic_ list]]
+[biochemistry_topic_ list](../../../00_inbox/biochemistry_topic_%20list.md)
