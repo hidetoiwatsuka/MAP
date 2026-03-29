@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Obsidian
+.obsidian/
+
+# PDFはローカルのみ管理（Obsidianで ![[]] として参照可、GitHubには含めない）
+*.pdf
