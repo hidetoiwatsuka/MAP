@@ -81,3 +81,47 @@ L-文化・生活
 知識は常に更新され、分野の境界は揺れ動き、新しい交差点が生まれ続ける。この地図は現時点での「スナップショット」であり、読む者自身の経験と照らし合わせながら、能動的に書き換えられるべきものです。
 
 地図を持つことの目的は、「どこに何があるかを知ること」ではなく、「自分が今どこにいて、どこへ向かえるかを考えること」にあります。
+
+---
+
+## Obsidian ユーザーへ
+
+このリポジトリは **Obsidian vault としてそのまま開けます**。
+ただし、Obsidian の `[[wikilinks]]` は GitHub 上では機能しないため、
+Git に push する前に以下のスクリプトで標準 Markdown リンクに変換してください。
+
+### `convert_obsidian_links.py`
+
+vault のルート（このファイルと同じ場所）に置いてあります。
+
+**実行方法**
+
+```bash
+python3 convert_obsidian_links.py
+```
+
+Python 3.10 以上が必要です。追加ライブラリは不要です。
+
+**何をするか**
+
+| 変換前 | 変換後 |
+| --- | --- |
+| `[[Note Name]]` | `[Note Name](path/to/Note%20Name.md)` |
+| `[[Note\|表示名]]` | `[表示名](path/to/Note.md)` |
+| `![[image.png]]` | `![image.png](path/to/image.png)` |
+| `![[document.pdf]]` | `![document.pdf](path/to/document.pdf)` |
+
+- vault 内の全ファイルを自動でインデックス化し、**相対パスで正しくリンク**します。
+- macOS の NFD ファイル名（`é` などのアクセント文字）にも対応しています。
+- リンク先のノートがまだ存在しない場合は、`00_inbox/` にプレースホルダーを自動生成してリンクを解決します。
+- スペースや特殊文字はすべて URL エンコード（`%20` 等）されます。
+
+**推奨ワークフロー**
+
+```
+Obsidian で編集
+    ↓
+python3 convert_obsidian_links.py
+    ↓
+git add . && git commit && git push
+```
