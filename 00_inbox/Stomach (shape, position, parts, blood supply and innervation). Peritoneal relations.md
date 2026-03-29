@@ -1,0 +1,1 @@
+![[16_Stomach_ÁdámÁ.pdf]]![[stomach small intestine (dragged) 2.pdf]]

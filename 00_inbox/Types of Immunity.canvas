@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"06ca64c1217f3aa1","type":"text","text":"## Acquired Immunity\n\nImmunity that develops during your life time","x":10,"y":1,"width":250,"height":60},
+		{"id":"ad20b8a0fb1e1e1c","type":"text","text":"## Innate Immunity\norgans, tissues and cells of the immune system that you are born with","x":-300,"y":1,"width":250,"height":60},
+		{"id":"a9198f9b1265e92b","type":"text","text":"### Passive Immunity\n\nDevelops after after you receive antibodies from someone or somewhere","x":135,"y":150,"width":250,"height":90},
+		{"id":"515eb3a8f1d113ea","type":"text","text":"### Active Immunity\n\ndevelop in response to an infection or vaccination","x":-175,"y":150,"width":250,"height":90},
+		{"id":"6c753f3254a0c9b9","x":-485,"y":360,"width":250,"height":60,"type":"text","text":"Natural"},
+		{"id":"e89eeb5085bda8c2","x":-175,"y":360,"width":250,"height":60,"type":"text","text":"Artificial"},
+		{"id":"b590032b0e9d5e71","type":"text","text":"Natural","x":135,"y":360,"width":250,"height":60},
+		{"id":"0f7715d0fe5b8dde","type":"text","text":"Artificial","x":445,"y":360,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"56d69a14261fceb3","fromNode":"06ca64c1217f3aa1","fromSide":"bottom","toNode":"515eb3a8f1d113ea","toSide":"top"},
+		{"id":"d78840e5fd41e8d9","fromNode":"06ca64c1217f3aa1","fromSide":"bottom","toNode":"a9198f9b1265e92b","toSide":"top"},
+		{"id":"472397b9dad6f7f6","fromNode":"515eb3a8f1d113ea","fromSide":"bottom","toNode":"6c753f3254a0c9b9","toSide":"top"},
+		{"id":"a9e5ee5589d80d25","fromNode":"515eb3a8f1d113ea","fromSide":"bottom","toNode":"e89eeb5085bda8c2","toSide":"top"},
+		{"id":"2e124fa7e094c747","fromNode":"a9198f9b1265e92b","fromSide":"bottom","toNode":"b590032b0e9d5e71","toSide":"top"},
+		{"id":"2cc9ab4d83760f74","fromNode":"a9198f9b1265e92b","fromSide":"bottom","toNode":"0f7715d0fe5b8dde","toSide":"top"}
+	]
+}

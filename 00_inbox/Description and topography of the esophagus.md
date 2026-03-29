@@ -1,0 +1,1 @@
+![[stomach small intestine (dragged).pdf]]

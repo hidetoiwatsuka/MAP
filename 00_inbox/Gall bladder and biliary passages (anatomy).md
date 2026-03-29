@@ -1,0 +1,1 @@
+![[18_ Liver, gallbladder (dragged) 2.pdf]]

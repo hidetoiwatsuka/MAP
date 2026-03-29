@@ -1,0 +1,1 @@
+![[14_Morphology of the trachea and the lung. Pleura (dragged) 7.pdf]]

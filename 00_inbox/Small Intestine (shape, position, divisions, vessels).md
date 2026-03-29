@@ -1,0 +1,1 @@
+![[stomach small intestine (dragged) 5 1.pdf]]![[17_A_Small intestines_pancreas and spleen_EMI_1_12_Hanics2026 (dragged) 3.pdf]]
