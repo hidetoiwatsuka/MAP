@@ -1,4 +1,4 @@
-![oral cavity (dragged) 5.pdf](oral%20cavity%20(dragged)%205.pdf)![02 oralcavity_tongue_isthmus_salivary glands_EMMacro2_kom2026 (dragged) 1.pdf](02%20oralcavity_tongue_isthmus_salivary%20glands_EMMacro2_kom2026%20(dragged)%201.pdf)
+![[oral cavity (dragged) 5.pdf]]![[02 oralcavity_tongue_isthmus_salivary glands_EMMacro2_kom2026 (dragged) 1.pdf]]
 ## The floor of the oral cavity
 - mylohyoid
 

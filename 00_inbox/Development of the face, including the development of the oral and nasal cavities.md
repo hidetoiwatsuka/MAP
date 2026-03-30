@@ -1,1 +1,1 @@
-![01_Székely EM I nasal cavity_ 2026.02.16-17. (dragged) 3.pdf](01_Székely%20EM%20I%20nasal%20cavity_%202026.02.16-17.%20(dragged)%203.pdf)![06_Development of face_Nagy N.pdf](06_Development%20of%20face_Nagy%20N.pdf)
+![[01_Székely EM I nasal cavity_ 2026.02.16-17. (dragged) 3.pdf]]![[06_Development of face_Nagy N.pdf]]

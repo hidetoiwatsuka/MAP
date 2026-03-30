@@ -1,1 +1,1 @@
-![07_Development-of-pharyngeal-apparatus_Nandor Nagy (dragged).pdf](07_Development-of-pharyngeal-apparatus_Nandor%20Nagy%20(dragged).pdf)
+![[07_Development-of-pharyngeal-apparatus_Nandor Nagy (dragged).pdf]]

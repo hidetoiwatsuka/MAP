@@ -207,4 +207,4 @@ tags:
 - Eyelids, conjunctiva, fasciae of the orbit, lacrimal apparatus
 
 read before exam
-![Macroscopic Anatomy II.pdf](Macroscopic%20Anatomy%20II.pdf)
+![[Macroscopic Anatomy II.pdf]]

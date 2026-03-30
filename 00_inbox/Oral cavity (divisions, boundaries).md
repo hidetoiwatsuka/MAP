@@ -1,4 +1,4 @@
-![oral cavity (dragged) 1.pdf](oral%20cavity%20(dragged)%201.pdf)![02 oralcavity_tongue_isthmus_salivary glands_EMMacro2_kom2026 (dragged).pdf](02%20oralcavity_tongue_isthmus_salivary%20glands_EMMacro2_kom2026%20(dragged).pdf)
+![[oral cavity (dragged) 1.pdf]]![[02 oralcavity_tongue_isthmus_salivary glands_EMMacro2_kom2026 (dragged).pdf]]
 ## 3 parts of the oral cavity
 - oropharyngeal isthmus
 - oral vestibule

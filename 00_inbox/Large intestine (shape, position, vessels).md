@@ -1,1 +1,1 @@
-![19_ColonRectum_Székely_2026 1.pdf](19_ColonRectum_Székely_2026%201.pdf)
+![[19_ColonRectum_Székely_2026 1.pdf]]

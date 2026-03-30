@@ -1,1 +1,1 @@
-![09_A-B_EM_Cardiac-vessels-conducting-system-Skeletotopy_20260302-03_KK (dragged) 8.pdf](09_A-B_EM_Cardiac-vessels-conducting-system-Skeletotopy_20260302-03_KK%20(dragged)%208.pdf)
+![[09_A-B_EM_Cardiac-vessels-conducting-system-Skeletotopy_20260302-03_KK (dragged) 8.pdf]]

@@ -1,4 +1,4 @@
-![immun s, thymus, tonsils.pdf](01_Assets/Attachments/immun%20s%2C%20thymus%2C%20tonsils.pdf)
+![[immun s, thymus, tonsils.pdf]]
 
 
 

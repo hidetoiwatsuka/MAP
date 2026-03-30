@@ -1,1 +1,1 @@
-![X-ray_generation_properties_20260218.pdf](X-ray_generation_properties_20260218.pdf)
+![[X-ray_generation_properties_20260218.pdf]]

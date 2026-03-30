@@ -1,1 +1,1 @@
-![14_Morphology of the trachea and the lung. Pleura (dragged) 7.pdf](14_Morphology%20of%20the%20trachea%20and%20the%20lung.%20Pleura%20(dragged)%207.pdf)
+![[14_Morphology of the trachea and the lung. Pleura (dragged) 7.pdf]]

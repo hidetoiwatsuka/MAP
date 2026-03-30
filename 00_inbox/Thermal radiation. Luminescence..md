@@ -1,1 +1,1 @@
-![09_Thermal_emission_Luminescence_20251105.pdf](09_Thermal_emission_Luminescence_20251105.pdf)
+![[09_Thermal_emission_Luminescence_20251105.pdf]]

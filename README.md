@@ -114,7 +114,7 @@ Python 3.10 以上が必要です。追加ライブラリは不要です。
 | `[[Note Name]]` | `[Note Name](path/to/Note%20Name.md)` |
 | `[[Note\|表示名]]` | `[表示名](path/to/Note.md)` |
 | `![[image.png]]` | `![image.png](path/to/image.png)` |
-| `![[document.pdf]]` | `![document.pdf](path/to/document.pdf)` |
+| `![[document.pdf]]` | `![[document.pdf]]` |
 
 - vault 内の全ファイルを自動でインデックス化し、相対パスで正しくリンクします
 - macOS の NFD ファイル名（`é` などのアクセント文字）にも対応しています

@@ -1,1 +1,1 @@
-![oral cavity (dragged) 4.pdf](oral%20cavity%20(dragged)%204.pdf)![02 oralcavity_tongue_isthmus_salivary glands_EMMacro2_kom2026 (dragged) 3.pdf](02%20oralcavity_tongue_isthmus_salivary%20glands_EMMacro2_kom2026%20(dragged)%203.pdf)
+![[oral cavity (dragged) 4.pdf]]![[02 oralcavity_tongue_isthmus_salivary glands_EMMacro2_kom2026 (dragged) 3.pdf]]

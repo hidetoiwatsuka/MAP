@@ -12,21 +12,23 @@ Obsidian の [[wikilinks]] / ![[embeds]] を Git/GitHub で動作する
 
 変換ルール
 ----------
-  [[Note Name]]           →  [Note Name](relative/path/Note%20Name.md)
-  [[File.pdf]]            →  [File.pdf](relative/path/File.pdf)
-  [[Note|表示名]]         →  [表示名](relative/path/Note.md)
-  ![[image.png]]          →  ![image.png](relative/path/image.png)
-  ![[Note Name]]          →  [Note Name](relative/path/Note%20Name.md)
+  [[Note Name]]       →  [Note Name](relative/path/Note%20Name.md)
+  [[Note|表示名]]     →  [表示名](relative/path/Note.md)
+  ![[Note Name]]      →  ![Note Name](relative/path/Note%20Name.md)
+  ![[image.png]]      →  ![image.png](relative/path/image.png)
+
+  [[File.pdf]]        →  変換しない（そのまま）
+  ![[File.pdf]]       →  変換しない（そのまま）
 
 特記事項
 --------
+- PDF リンクは変換せずそのまま残す（ローカルの Obsidian で動作、
+  GitHub では表示されないことを許容する設計）
 - macOS の HFS+ は NFD でファイル名を保存するが、Obsidian は NFC で
-  リンクを書くため、Unicode NFC 正規化でマッチングを行う。
+  リンクを書くため、Unicode NFC 正規化でマッチングを行う
 - リンク先が存在しない .md ノートは 00_inbox/ にプレースホルダーを
-  自動生成してリンクを解決する。
-- リンク先が存在しない PDF は 00_inbox/01_Assets/Attachments/ を
-  NFC 正規化で再検索して解決する。
-- 解決できなかったリンクはそのまま [[]] で残る。
+  自動生成してリンクを解決する
+- 解決できなかったリンクはそのまま [[]] で残る
 
 対応 Python バージョン
 ----------------------
@@ -44,9 +46,16 @@ VAULT_ROOT  = Path(__file__).parent.resolve()
 INBOX       = VAULT_ROOT / "00_inbox"
 ATTACHMENTS = INBOX / "01_Assets" / "Attachments"
 
+# ── 変換しないファイル拡張子 ──────────────────────────────────────
+PDF_EXTENSIONS = {".pdf"}
+
+# ── URL で安全にエンコードしない文字（ファイル名に頻出するもの） ──
+# カンマ、括弧、アンパサンドなど一般的な記号はそのまま残す
+URL_SAFE_CHARS = ",()&+'"
+
 # ── 既知のファイル拡張子（これ以外は .md として扱う） ────────────
 KNOWN_EXTENSIONS = {".pdf", ".png", ".jpg", ".jpeg", ".gif",
-                    ".svg", ".webp", ".md", ".txt"}
+                    ".svg", ".webp", ".md", ".txt", ".canvas"}
 
 
 # ── ユーティリティ ────────────────────────────────────────────────
@@ -60,11 +69,15 @@ def has_file_extension(name: str) -> bool:
     return Path(nfc(name)).suffix.lower() in KNOWN_EXTENSIONS
 
 
+def is_pdf(name: str) -> bool:
+    return Path(nfc(name)).suffix.lower() in PDF_EXTENSIONS
+
+
 def make_relative_url(source_file: Path, target_file: Path) -> str:
     """source_file から target_file への相対URLパスを返す（URLエンコード済み）"""
     rel = os.path.relpath(target_file, source_file.parent)
     parts = Path(rel).parts
-    return "/".join(quote(nfc(p), safe="") for p in parts)
+    return "/".join(quote(nfc(p), safe=URL_SAFE_CHARS) for p in parts)
 
 
 # ── ファイルインデックス ──────────────────────────────────────────
@@ -97,16 +110,18 @@ WIKILINK_RE = re.compile(r"(!?)\[\[([^\[\]]+?)\]\]")
 
 
 def collect_unresolved(index: dict[str, Path]) -> tuple[set, set]:
-    """vault全体から解決できないリンクを収集する"""
+    """vault全体から解決できないリンクを収集する（PDFは除く）"""
     unresolved_md: set[str]  = set()
     unresolved_pdf: set[str] = set()
     for md_path in VAULT_ROOT.rglob("*.md"):
         text = md_path.read_text(encoding="utf-8")
         for _, inner in WIKILINK_RE.findall(text):
             note_name = inner.split("|")[0].strip()
+            if is_pdf(note_name):
+                continue  # PDFは変換しないのでスキップ
             if resolve_target(note_name, index) is None:
                 suffix = Path(nfc(note_name)).suffix.lower()
-                if suffix == ".pdf":
+                if suffix in PDF_EXTENSIONS:
                     unresolved_pdf.add(note_name)
                 elif not suffix:
                     unresolved_md.add(note_name)
@@ -126,7 +141,6 @@ def fuzzy_pdf_match(pdf_name: str, all_pdfs: list[Path]) -> Path | None:
 # ── プレースホルダー MD の生成 ───────────────────────────────────
 def create_placeholder(note_name: str) -> Path:
     """00_inbox/ にプレースホルダーノートを作成して返す"""
-    # ファイル名に使えない文字 (/ \) を - に置換
     safe_name = note_name.replace("/", "-").replace("\\", "-")
     path = INBOX / f"{safe_name}.md"
     if not path.exists():
@@ -157,6 +171,10 @@ def convert_file(md_path: Path, index: dict[str, Path]) -> tuple[str, int, int]:
             display = note_name if not has_file_extension(nfc(note_name)) \
                       else Path(nfc(note_name)).name
 
+        # PDF はそのまま残す
+        if is_pdf(note_name.strip()):
+            return m.group(0)
+
         target = resolve_target(note_name.strip(), index)
         if target is None:
             unresolved += 1
@@ -165,12 +183,9 @@ def convert_file(md_path: Path, index: dict[str, Path]) -> tuple[str, int, int]:
         url = make_relative_url(md_path, target)
         ok += 1
 
+        # ![[]] は画像・ノートともに ! を維持
         if bang == "!":
-            suffix = target.suffix.lower()
-            if suffix in (".png", ".jpg", ".jpeg", ".gif", ".svg", ".webp", ".pdf"):
-                return f"![{display}]({url})"
-            # Markdown embed → plain link (GitHub非対応のため)
-            return f"[{display}]({url})"
+            return f"![{display}]({url})"
         return f"[{display}]({url})"
 
     return WIKILINK_RE.sub(replace, text), ok, unresolved
@@ -184,29 +199,11 @@ def main() -> None:
     index = build_index(VAULT_ROOT)
     print(f"Indexed {len(index)} files.\n")
 
-    # Step 2: 未解決リンクの収集
-    unresolved_md, unresolved_pdf = collect_unresolved(index)
-    print(f"未解決 MD ノート : {len(unresolved_md)} 件")
-    print(f"未解決 PDF リンク: {len(unresolved_pdf)} 件\n")
+    # Step 2: 未解決リンクの収集（PDF除く）
+    unresolved_md, _ = collect_unresolved(index)
+    print(f"未解決 MD ノート: {len(unresolved_md)} 件\n")
 
-    # Step 3: PDF を Attachments から NFC マッチで解決
-    if ATTACHMENTS.exists():
-        all_pdfs = [p for p in ATTACHMENTS.rglob("*.pdf")
-                    if not p.name.startswith(".")]
-        pdf_resolved = 0
-        for pdf_name in sorted(unresolved_pdf):
-            match = fuzzy_pdf_match(pdf_name, all_pdfs)
-            if match:
-                key = nfc(match.name)
-                if key not in index:
-                    index[key] = match
-                    pdf_resolved += 1
-                    print(f"  PDF resolved : {pdf_name}")
-            else:
-                print(f"  PDF NOT FOUND: {pdf_name}")
-        print(f"  → {pdf_resolved} 件の PDF をインデックスに追加\n")
-
-    # Step 4: 未作成ノートにプレースホルダーを生成
+    # Step 3: 未作成ノートにプレースホルダーを生成
     placeholder_created = 0
     for note_name in sorted(unresolved_md):
         p = create_placeholder(note_name)
@@ -218,7 +215,7 @@ def main() -> None:
     if placeholder_created:
         print(f"  → {placeholder_created} 件のプレースホルダーを生成\n")
 
-    # Step 5: 全 .md を変換
+    # Step 4: 全 .md を変換
     total_ok = 0
     total_unresolved = 0
     changed_files = 0
@@ -241,7 +238,7 @@ def main() -> None:
     print(f"Links converted  : {total_ok}")
     print(f"Unresolved links : {total_unresolved}")
     if total_unresolved == 0:
-        print("✅ 全 [[リンク]] の変換が完了しました。")
+        print("✅ 全 [[リンク]] の変換が完了しました（PDFは除く）。")
 
 
 if __name__ == "__main__":
