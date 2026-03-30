@@ -49,8 +49,9 @@ ATTACHMENTS = INBOX / "01_Assets" / "Attachments"
 # ── 変換しないファイル拡張子 ──────────────────────────────────────
 PDF_EXTENSIONS = {".pdf"}
 
-# ── URL で安全にエンコードしない文字（ファイル名に頻出するもの） ──
-# カンマ、括弧、アンパサンドなど一般的な記号はそのまま残す
+# ── URL で安全にエンコードしない ASCII 記号 ──────────────────────
+# カンマ、括弧、アンパサンド、プラス、シングルクォート
+# 非ASCII（日本語・アクセント文字等）は encode_path_segment() で別途処理
 URL_SAFE_CHARS = ",()&+'"
 
 # ── 既知のファイル拡張子（これ以外は .md として扱う） ────────────
@@ -73,11 +74,26 @@ def is_pdf(name: str) -> bool:
     return Path(nfc(name)).suffix.lower() in PDF_EXTENSIONS
 
 
+def encode_path_segment(segment: str) -> str:
+    """パスの1セグメントをURLエンコードする。
+    - ASCII の記号・英数字は quote() で処理（URL_SAFE_CHARS は除外）
+    - 非ASCII文字（日本語・アクセント文字等）はそのまま残す
+    """
+    result = []
+    for ch in segment:
+        if ord(ch) > 127:
+            # 非ASCII → そのまま（日本語等はブラウザ/GitHubが処理できる）
+            result.append(ch)
+        else:
+            result.append(quote(ch, safe=URL_SAFE_CHARS))
+    return "".join(result)
+
+
 def make_relative_url(source_file: Path, target_file: Path) -> str:
     """source_file から target_file への相対URLパスを返す（URLエンコード済み）"""
     rel = os.path.relpath(target_file, source_file.parent)
     parts = Path(rel).parts
-    return "/".join(quote(nfc(p), safe=URL_SAFE_CHARS) for p in parts)
+    return "/".join(encode_path_segment(nfc(p)) for p in parts)
 
 
 # ── ファイルインデックス ──────────────────────────────────────────

@@ -115,14 +115,14 @@ Phase 2開始前に**絶対必要なもの (CORE)** と**その週が来たら�
 
 ### Foundation — CORE
 
-- [Development environment setup (rustup, cargo, VS Code + rust-analyzer)](Development%20environment%20setup%20%28rustup%2C%20cargo%2C%20VS%20Code%20%2B%20rust-analyzer%29.md) — _TRPL Ch. 1_
-- [Cargo basics (new, build, run, test, Cargo.toml)](Cargo%20basics%20%28new%2C%20build%2C%20run%2C%20test%2C%20Cargo.toml%29.md) — _TRPL Ch. 1_
-- [Git & GitHub (repo creation, commit, push)](Git%20%26%20GitHub%20%28repo%20creation%2C%20commit%2C%20push%29.md) — _external_
+- [Development environment setup (rustup, cargo, VS Code + rust-analyzer)](Development%20environment%20setup%20(rustup,%20cargo,%20VS%20Code%20+%20rust-analyzer).md) — _TRPL Ch. 1_
+- [Cargo basics (new, build, run, test, Cargo.toml)](Cargo%20basics%20(new,%20build,%20run,%20test,%20Cargo.toml).md) — _TRPL Ch. 1_
+- [Git & GitHub (repo creation, commit, push)](Git%20&%20GitHub%20(repo%20creation,%20commit,%20push).md) — _external_
 - Create `body-sim` repository
 
 ### Rust Fundamentals I — Ownership & Core Types — CORE
 
-- [Variables, data types, functions, control flow](Variables%2C%20data%20types%2C%20functions%2C%20control%20flow.md) — _TRPL Ch. 2–3 / PR Ch. 2–3_
+- [Variables, data types, functions, control flow](Variables,%20data%20types,%20functions,%20control%20flow.md) — _TRPL Ch. 2–3 / PR Ch. 2–3_
 - Ownership — _TRPL Ch. 4_
 - Borrowing and references (`&`, `&mut`) — _TRPL Ch. 4_
 - Slices — _TRPL Ch. 4_

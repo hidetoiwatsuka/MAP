@@ -29,11 +29,11 @@
 
 ### Histology of Organs
 
-- [Histology of lymph organs (lymph node, MALT & tonsils, spleen, thymus)](Histology%20of%20lymph%20organs%20%28lymph%20node%2C%20MALT%20%26%20tonsils%2C%20spleen%2C%20thymus%29.md)
+- [Histology of lymph organs (lymph node, MALT & tonsils, spleen, thymus)](Histology%20of%20lymph%20organs%20(lymph%20node,%20MALT%20&%20tonsils,%20spleen,%20thymus).md)
 - [Histological structure of arteries and arterioles](Histological%20structure%20of%20arteries%20and%20arterioles.md)
 - [Composition of capillaries and veins](Composition%20of%20capillaries%20and%20veins.md)
 - Wall structure of hollow organs
-- [Histology of the lip, tongue and teeth](Histology%20of%20the%20lip%2C%20tongue%20and%20teeth.md)
+- [Histology of the lip, tongue and teeth](Histology%20of%20the%20lip,%20tongue%20and%20teeth.md)
 - Structure of the esophagus
 - Histology of the airways (epiglottis, larynx, trachea, lung)
 - Histology of the stomach

@@ -14,10 +14,10 @@ tags:
 
 | No         | Date       | Topic                                                                                                        | Lecturer    |
 | ---------- | ---------- | ------------------------------------------------------------------------------------------------------------ | ----------- |
-| Bio I - 2  | 2025.09.17 | [Geometric optics. Fermat principle. Reflection & refraction. Medical optical devices. Optics of the eye.](Geometric%20optics.%20Fermat%20principle.%20Reflection%20%26%20refraction.%20Medical%20optical%20devices.%20Optics%20of%20the%20eye..md) | Kellermayer |
+| Bio I - 2  | 2025.09.17 | [Geometric optics. Fermat principle. Reflection & refraction. Medical optical devices. Optics of the eye.](Geometric%20optics.%20Fermat%20principle.%20Reflection%20&%20refraction.%20Medical%20optical%20devices.%20Optics%20of%20the%20eye..md) | Kellermayer |
 | Bio I - 3  | 2025.09.24 | [Wave optics. Huygens-Fresnel. Resolving power. Polarization. Color vision.](Wave%20optics.%20Huygens-Fresnel.%20Resolving%20power.%20Polarization.%20Color%20vision..md)                               | Kiss Balázs |
 | Bio I - 4  | 2025.10.01 | [Light as wave and particle. Dual properties.](Light%20as%20wave%20and%20particle.%20Dual%20properties..md)                                                             | Kellermayer |
-| Bio I - 8  | 2025.10.29 | [Interactions of light with matter. Scatter, absorption, spectrometry.](Interactions%20of%20light%20with%20matter.%20Scatter%2C%20absorption%2C%20spectrometry..md)                                    | Kellermayer |
+| Bio I - 8  | 2025.10.29 | [Interactions of light with matter. Scatter, absorption, spectrometry.](Interactions%20of%20light%20with%20matter.%20Scatter,%20absorption,%20spectrometry..md)                                    | Kellermayer |
 | Bio I - 9  | 2025.11.05 | [Thermal radiation. Luminescence.](Thermal%20radiation.%20Luminescence..md)                                                                         | Kellermayer |
 | Bio I - 10 | 2025.11.12 | [Fundamentals of laser. Properties and medical applications.](Fundamentals%20of%20laser.%20Properties%20and%20medical%20applications..md)                                              | Kellermayer |
 
@@ -41,8 +41,8 @@ tags:
 | No        | Date       | Topic                                                                                   | Lecturer    |
 | --------- | ---------- | --------------------------------------------------------------------------------------- | ----------- |
 | Bio I - 5 | 2025.10.08 | [molecular interactions. AFM.](molecular%20interactions.%20AFM..md)               | Kellermayer |
-| Bio I - 6 | 2025.10.15 | [Boltzmann distribution. Many-particle systems. Gases, liquids, liquid crystals.](Boltzmann%20distribution.%20Many-particle%20systems.%20Gases%2C%20liquids%2C%20liquid%20crystals..md)     | Mártonfalvi |
-| Bio I - 7 | 2025.10.22 | [Electronic states of crystalline materials. Insulators, conductors, semiconductors.](Electronic%20states%20of%20crystalline%20materials.%20Insulators%2C%20conductors%2C%20semiconductors..md) | Balog Erika |
+| Bio I - 6 | 2025.10.15 | [Boltzmann distribution. Many-particle systems. Gases, liquids, liquid crystals.](Boltzmann%20distribution.%20Many-particle%20systems.%20Gases,%20liquids,%20liquid%20crystals..md)     | Mártonfalvi |
+| Bio I - 7 | 2025.10.22 | [Electronic states of crystalline materials. Insulators, conductors, semiconductors.](Electronic%20states%20of%20crystalline%20materials.%20Insulators,%20conductors,%20semiconductors..md) | Balog Erika |
 
 ### Practices
 
@@ -60,8 +60,8 @@ tags:
 | No         | Date       | Topic                                                                        | Lecturer    |
 | ---------- | ---------- | ---------------------------------------------------------------------------- | ----------- |
 | Bio I - 1  | 2025.09.10 | [Introduction. Radiations in medicine. Quantities and laws.](Introduction.%20Radiations%20in%20medicine.%20Quantities%20and%20laws..md)               | Kellermayer |
-| Bio I - 11 | 2025.11.19 | [Atomic nucleus, radioactivity, nuclear radiations. Isotope tracing.](Atomic%20nucleus%2C%20radioactivity%2C%20nuclear%20radiations.%20Isotope%20tracing..md)      | Smeller     |
-| Bio I - 12 | 2025.11.26 | [Dosimetry, radiation protection. Nuclear measurement techniques.](Dosimetry%2C%20radiation%20protection.%20Nuclear%20measurement%20techniques..md)         | Smeller     |
+| Bio I - 11 | 2025.11.19 | [Atomic nucleus, radioactivity, nuclear radiations. Isotope tracing.](Atomic%20nucleus,%20radioactivity,%20nuclear%20radiations.%20Isotope%20tracing..md)      | Smeller     |
+| Bio I - 12 | 2025.11.26 | [Dosimetry, radiation protection. Nuclear measurement techniques.](Dosimetry,%20radiation%20protection.%20Nuclear%20measurement%20techniques..md)         | Smeller     |
 | Bio I - 13 | 2025.12.03 | [Nuclear medicine. Diagnostic and therapeutic applications. Gamma camera.](Nuclear%20medicine.%20Diagnostic%20and%20therapeutic%20applications.%20Gamma%20camera..md) | Voszka      |
 
 ### Practices
@@ -101,7 +101,7 @@ tags:
 
 | No         | Date       | Topic                  | Lecturer    |
 | ---------- | ---------- | ---------------------- | ----------- |
-| Bio II - 3 | 2026.03.04 | [Sound, ultrasound.](Sound%2C%20ultrasound..md) | Kellermayer |
+| Bio II - 3 | 2026.03.04 | [Sound, ultrasound.](Sound,%20ultrasound..md) | Kellermayer |
 
 ### Practices
 
@@ -117,9 +117,9 @@ tags:
 
 | No         | Date       | Topic                                                   | Lecturer     |
 | ---------- | ---------- | ------------------------------------------------------- | ------------ |
-| Bio II - 4 | 2026.03.11 | [Thermodynamics (equilibrium, change, laws)](Thermodynamics%20%28equilibrium%2C%20change%2C%20laws%29.md)          | Kellermayer  |
-| Bio II - 5 | 2026.03.18 | [Transport (flow of fluids and gases) Blood as fluid.](Transport%20%28flow%20of%20fluids%20and%20gases%29%20Blood%20as%20fluid..md) | Kellermayer  |
-| Bio II - 6 | 2026.03.25 | [Transport (diffusion, Brownian motion, osmosis)](Transport%20%28diffusion%2C%20Brownian%20motion%2C%20osmosis%29.md)      | Veres Dániel |
+| Bio II - 4 | 2026.03.11 | [Thermodynamics (equilibrium, change, laws)](Thermodynamics%20(equilibrium,%20change,%20laws).md)          | Kellermayer  |
+| Bio II - 5 | 2026.03.18 | [Transport (flow of fluids and gases) Blood as fluid.](Transport%20(flow%20of%20fluids%20and%20gases)%20Blood%20as%20fluid..md) | Kellermayer  |
+| Bio II - 6 | 2026.03.25 | [Transport (diffusion, Brownian motion, osmosis)](Transport%20(diffusion,%20Brownian%20motion,%20osmosis).md)      | Veres Dániel |
 
 ### Practices
 
@@ -136,7 +136,7 @@ tags:
 
 | No         | Date       | Topic                                                                           | Lecturer    |
 | ---------- | ---------- | ------------------------------------------------------------------------------- | ----------- |
-| Bio I - 14 | 2025.12.10 | [Signals in medicine. Classification, amplification, conversion, processing.](Signals%20in%20medicine.%20Classification%2C%20amplification%2C%20conversion%2C%20processing..md) | Kellermayer |
+| Bio I - 14 | 2025.12.10 | [Signals in medicine. Classification, amplification, conversion, processing.](Signals%20in%20medicine.%20Classification,%20amplification,%20conversion,%20processing..md) | Kellermayer |
 
 ### Practices
 
