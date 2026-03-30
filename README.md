@@ -1,5 +1,7 @@
 # MAP
 
+> Personal knowledge vault by [hidetoiwatsuka](https://github.com/hidetoiwatsuka)
+
 ## なぜこの地図が必要なのか
 
 AIが定型的な知的作業を代替し始めている。
