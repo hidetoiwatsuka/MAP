@@ -99,7 +99,7 @@ PDF は `.gitignore` で除外されています。ローカルの Obsidian で�
 
 ### wikilinks の変換
 
-Obsidian の `[[wikilinks]]` は GitHub 上では機能しないため、push 前に以下のスクリプトで標準 Markdown リンクに変換してください。
+Obsidian の `[wikilinks](00_inbox/wikilinks.md)` は GitHub 上では機能しないため、push 前に以下のスクリプトで標準 Markdown リンクに変換してください。
 
 **実行方法**
 
@@ -113,7 +113,7 @@ Python 3.10 以上が必要です。追加ライブラリは不要です。
 
 | 変換前 | 変換後 |
 | --- | --- |
-| `[[Note Name]]` | `[Note Name](path/to/Note%20Name.md)` |
+| `[Note Name](00_inbox/Note%20Name.md)` | `[Note Name](path/to/Note%20Name.md)` |
 | `[[Note\|表示名]]` | `[表示名](path/to/Note.md)` |
 | `![[image.png]]` | `![image.png](path/to/image.png)` |
 | `![[document.pdf]]` | `![[document.pdf]]` |

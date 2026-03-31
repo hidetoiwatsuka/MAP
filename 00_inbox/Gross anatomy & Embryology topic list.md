@@ -78,6 +78,7 @@ tags:
 
 # Macroscopic anatomy II
 
+![[Anatomy korean Notes Sem 2 (Recommended).pdf]]
 ### Internal Organs of the Head & Neck (Morphology and Development)
 
 - [Oral cavity (divisions, boundaries)](Oral%20cavity%20(divisions,%20boundaries).md)
