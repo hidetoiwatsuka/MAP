@@ -1,8 +1,6 @@
 ---
 tags:
   - topiclist
-  - IT
-  - jpn
 ---
 
 > IPA 公式シラバス（Ver.9.2）に基づく出題範囲の全体構造

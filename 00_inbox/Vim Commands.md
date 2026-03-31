@@ -1,7 +1,6 @@
 ---
 tags:
-  - commands
-  - IT
+  - memo
 ---
 
 # Vim — Command Reference

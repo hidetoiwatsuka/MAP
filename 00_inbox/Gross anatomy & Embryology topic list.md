@@ -1,6 +1,6 @@
 ---
 tags:
-  - medicine
+  - semmelweis
   - topiclist
 ---
 # Macroscopic anatomy I

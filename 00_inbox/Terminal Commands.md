@@ -1,7 +1,6 @@
 ---
 tags:
-  - commands
-  - IT
+  - memo
 ---
 ターミナルで使う基本コマンドのリファレンス。macOS / Linux共通。
 

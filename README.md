@@ -1,3 +1,7 @@
+---
+tags:
+  - README
+---
 # MAP
 
 > Personal knowledge vault by [hidetoiwatsuka](https://github.com/hidetoiwatsuka)

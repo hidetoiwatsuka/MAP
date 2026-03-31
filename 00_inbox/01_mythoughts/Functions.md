@@ -1,7 +1,6 @@
 ---
 tags:
-  - concept
-  - math
+  - memo
 ---
 ## 1. What Is a Function? — 関数とは何か
 

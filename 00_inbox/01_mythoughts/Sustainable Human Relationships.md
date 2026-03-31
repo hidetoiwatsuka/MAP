@@ -1,6 +1,6 @@
 ---
 tags:
-  - concept
+  - memo
 ---
 ## Core Thesis — 中核命題
 

@@ -1,7 +1,6 @@
 ---
 tags:
-  - Git
-  - concept
+  - memo
 ---
 # Git — Version Control from Zero
 
@@ -298,10 +297,10 @@ $$\text{Current project} = \int_{0}^{n} \text{commit}_i$$
 
 （`git diff`は微分 — 「2つの状態間で何が変わったか？」。`git log`は積分 — 「累積された全履歴は何か？」）
 
-git がiCloudeにある時のterminal ないの移動のコマンド
 
+finder での path の確認方法。
 ```
-ln -s ~/Library/Mobile\ Documents/com~apple~CloudDocs ~/iCloud
+otion + 右クリック
 ```
 
 ---

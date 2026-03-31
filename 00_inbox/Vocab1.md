@@ -1,10 +1,3 @@
----
-tags:
-  - Vocab
-  - IT
-  - ENG
-  - Language
----
 
 | configure     |           |
 | :------------ | --------- |
