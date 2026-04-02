@@ -1,3 +1,2 @@
-# External and internal iliac arteries and their branches
 
-> [!note] This note is a placeholder. Content to be added.
+![[Pasted image 20260401184835.png]]

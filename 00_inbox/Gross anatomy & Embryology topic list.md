@@ -4,6 +4,7 @@ tags:
   - topiclist
 ---
 # Macroscopic anatomy I
+around 200 topics
 
 ### Musculoskeletal Anatomy
 
@@ -78,7 +79,6 @@ tags:
 
 # Macroscopic anatomy II
 
-![[Anatomy korean Notes Sem 2 (Recommended).pdf]]
 ### Internal Organs of the Head & Neck (Morphology and Development)
 
 - [Oral cavity (divisions, boundaries)](Oral%20cavity%20(divisions,%20boundaries).md)
@@ -206,6 +206,3 @@ tags:
 - Parasympathetic system (cranial and sacral parts)
 - Topography of the orbit. Extraocular muscles. Eye movements.
 - Eyelids, conjunctiva, fasciae of the orbit, lacrimal apparatus
-
-read before exam
-![[Macroscopic Anatomy II.pdf]]

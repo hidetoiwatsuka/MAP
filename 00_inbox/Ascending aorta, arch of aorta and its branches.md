@@ -1,3 +1,8 @@
-# Ascending aorta, arch of aorta and its branches
+![[Pasted image 20260401180027.png]]
 
-> [!note] This note is a placeholder. Content to be added.
+### Aortic arch
+- brachiocephalic trunk
+	- right common carotid
+	- right subclavian
+- left common carotid
+- left subclavian

@@ -4,7 +4,7 @@ tags:
   - topiclist
 ---
 
-> Semmelweis University | English Medicine Programme Lecture (Bio I / Bio II) ↔ Practice (Lab) の対応表
+> Semmelweis University | English Medicine Programme Lecture (Bio I / Bio II) ↔ Practice (Lab) の対応表 59 topics
 
 ---
 

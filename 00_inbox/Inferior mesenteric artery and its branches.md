@@ -1,3 +1,1 @@
-# Inferior mesenteric artery and its branches
-
-> [!note] This note is a placeholder. Content to be added.
+![[Pasted image 20260401145004.png]]
