@@ -11,7 +11,7 @@
 |**Radial**|Sphincter shape|External anal sphincter|
 |**Flat**|Broad, flat|External oblique|
 
-![[Pasted image 20260402123403.png]]
+![Pasted image 20260402123403.png](00_Assets/Attachments/Pasted%20image%2020260402123403.png)
 
 ## Pennate vs Nonpennate Muscles
 

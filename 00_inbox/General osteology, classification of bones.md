@@ -1,4 +1,4 @@
-![[Pasted image 20260402120611.png]]
+![Pasted image 20260402120611.png](00_Assets/Attachments/Pasted%20image%2020260402120611.png)
 ## Types of Bone
 
 **Long bones** – tubular bones of the limbs

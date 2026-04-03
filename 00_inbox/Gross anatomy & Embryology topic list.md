@@ -8,12 +8,12 @@ around 200 topics
 
 ### Musculoskeletal Anatomy
 
-- [[General osteology, classification of bones]]
-- [[Continuous connections of bones. Classification of joints; components, movements and mechanisms]]
-- [[General myology]]
-- [[Structure of the vertebral column, the gross anatomy of the muscles acting upon it]]
-- [[Movements and muscles of the head & neck (atlantooccipital and atlantoaxial joints)]]
-- [[Joints of the shoulder girdle, the gross anatomy of the muscles acting upon them]]
+- [General osteology, classification of bones](General%20osteology,%20classification%20of%20bones.md)
+- [Continuous connections of bones. Classification of joints; components, movements and mechanisms](Continuous%20connections%20of%20bones.%20Classification%20of%20joints%3B%20components,%20movements%20and%20mechanisms.md)
+- [General myology](General%20myology.md)
+- [Structure of the vertebral column, the gross anatomy of the muscles acting upon it](Structure%20of%20the%20vertebral%20column,%20the%20gross%20anatomy%20of%20the%20muscles%20acting%20upon%20it.md)
+- [Movements and muscles of the head & neck (atlantooccipital and atlantoaxial joints)](Movements%20and%20muscles%20of%20the%20head%20&%20neck%20(atlantooccipital%20and%20atlantoaxial%20joints).md)
+- [Joints of the shoulder girdle, the gross anatomy of the muscles acting upon them](Joints%20of%20the%20shoulder%20girdle,%20the%20gross%20anatomy%20of%20the%20muscles%20acting%20upon%20them.md)
 - Shoulder joint, the gross anatomy of the muscles acting upon it
 - Axillary fossa, quadrangular and triangular spaces
 - Muscle compartments and cross section of the arm

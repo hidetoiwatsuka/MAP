@@ -2,6 +2,7 @@
 tags:
   - README
 ---
+[biochem_topic_list](biochem_topic_list.md)
 
 生化学は生命現象を化学の言語で解明します。タンパク質・核酸・糖質・脂質という生体分子とその代謝・シグナル伝達を研究します。
 
@@ -19,7 +20,3 @@ tags:
 
 - [B4-生物学/分子生物学](../../B4-生物学/分子生物学.md)
 - [C1-基礎医学](../../../C-生命・医療科学/C1-基礎医学/README.md)
-
----
-
-![biochemistry_topic_ list](biochemistry_topic_%20list.md)

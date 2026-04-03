@@ -1,7 +1,7 @@
-![[Pasted image 20260402123557.png]]
+![Pasted image 20260402123557.png](00_Assets/Attachments/Pasted%20image%2020260402123557.png)
 
 ## general structure of vertebra
-![[Pasted image 20260402123756.png|300]]
+![300](00_Assets/Attachments/Pasted%20image%2020260402123756.png)
 
 - vertebral body
 - vertebral arch
@@ -14,7 +14,7 @@
 ---
 ## Typical Cervical Vertebrae (C3–C7)
 
-![[Pasted image 20260402124248.png]]
+![Pasted image 20260402124248.png](00_Assets/Attachments/Pasted%20image%2020260402124248.png)
 
 
 |Feature|Description|
@@ -31,7 +31,7 @@
 
 ## Atlas (C1) & Axis (C2)
 
-![[Pasted image 20260402124700.png]]
+![Pasted image 20260402124700.png](00_Assets/Attachments/Pasted%20image%2020260402124700.png)
 
 |Feature|Atlas (C1)|Axis (C2)|
 |---|---|---|
@@ -64,7 +64,7 @@
 |**T10**|Superior costal facet only|Rib 10 articulates only with T10|
 |**T11–T12**|Single facet each|Ribs 11–12 articulate only with their own vertebra|
 |**Transverse process facets**|T1–T10 have them; T11–T12 do not|—|
-![[Pasted image 20260402125214.png]]
+![Pasted image 20260402125214.png](00_Assets/Attachments/Pasted%20image%2020260402125214.png)
 
 ---
 ## Lumbar Vertebrae (L1–L5)
@@ -80,7 +80,7 @@
 |**Superior articular processes**|Massive; facets slightly concave, face **medially**; nearly vertical/sagittal orientation|
 |**Inferior articular processes**|Massive; facets slightly convex, face **laterally**|
 |**Mammillary processes**|On lateral surfaces of superior articular processes; serve as origin/insertion for intrinsic back muscles|
-![[Pasted image 20260402125342.png]]
+![Pasted image 20260402125342.png](00_Assets/Attachments/Pasted%20image%2020260402125342.png)
 
 ---
 ## Sacrum & Coccyx
@@ -115,13 +115,13 @@
 |:------------------------- |:------------------------------------------------------------------------------------- |
 | **Movement**              | Passive forward and backward motion                                                   |
 | **Clinical significance** | Backward motion increases anteroposterior diameter of pelvic outlet during childbirth |
-![[Pasted image 20260402125908.png|300]]
+![300](00_Assets/Attachments/Pasted%20image%2020260402125908.png)
 
 ---
 ## Intervertebral Disk: Structure
 
 Two components: **anulus fibrosus** (outer ring) + **nucleus pulposus** (inner gelatinous core).
-![[Pasted image 20260402130324.png]]
+![Pasted image 20260402130324.png](00_Assets/Attachments/Pasted%20image%2020260402130324.png)
 
 
 ---
@@ -143,9 +143,9 @@ Two components: **anulus fibrosus** (outer ring) + **nucleus pulposus** (inner g
 | Supraspinous ligament           | Along the tips of spinous processes                                                                                                                                     |
 | Nuchal ligament (cervical only) | Broadened sagittal extension of supraspinous ligament; external occipital protuberance → C7 (vertebra prominens)                                                        |
 | Intertransverse ligaments       | Between tips of transverse processes; limit rocking movements between vertebrae                                                                                         |
-![[Pasted image 20260402131010.png]]
-![[Pasted image 20260402131053.png]]
-![[Pasted image 20260402131115.png]]
+![Pasted image 20260402131010.png](00_Assets/Attachments/Pasted%20image%2020260402131010.png)
+![Pasted image 20260402131053.png](00_Assets/Attachments/Pasted%20image%2020260402131053.png)
+![Pasted image 20260402131115.png](00_Assets/Attachments/Pasted%20image%2020260402131115.png)
 
 ---
 ## Muscles Acting on the Vertebral Column
@@ -164,7 +164,7 @@ Two components: **anulus fibrosus** (outer ring) + **nucleus pulposus** (inner g
 |**Splenius cervicis**|Spinous processes T3–T6|Transverse processes C1–C3|Posterior rami|Bilateral: extension. Unilateral: ipsilateral rotation, lateral flexion|
 |**Intertransversarii**|Transverse process|Adjacent transverse process|Posterior (and anterior) rami|Lateral flexion, segmental stabilization|
 |**Levatores costarum** (breves / longi)|Transverse processes C7–T11|Rib below (breves: next rib; longi: skip one)|Posterior rami|Elevate ribs, lateral flexion|
-![[Pasted image 20260402132210.png]]
+![Pasted image 20260402132210.png](00_Assets/Attachments/Pasted%20image%2020260402132210.png)
 
 ### Medial Tract
 
@@ -178,7 +178,7 @@ Two components: **anulus fibrosus** (outer ring) + **nucleus pulposus** (inner g
 |**Multifidus**|Sacrum, iliac crest, transverse processes|Spinous processes 2–4 segments above|Posterior rami|Contralateral rotation, extension, stabilization|
 |**Semispinalis thoracis**|Transverse processes T6–T12|Spinous processes C6–T4|Posterior rami|Bilateral: extension. Unilateral: contralateral rotation|
 |**Semispinalis cervicis**|Transverse processes T1–T6|Spinous processes C2–C5|Posterior rami|Same|
-![[Pasted image 20260402132253.png]]
+![Pasted image 20260402132253.png](00_Assets/Attachments/Pasted%20image%2020260402132253.png)
 
 ### Key Pattern Summary
 

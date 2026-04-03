@@ -1,4 +1,4 @@
-![[Pasted image 20260402140646.png]]
+![Pasted image 20260402140646.png](00_Assets/Attachments/Pasted%20image%2020260402140646.png)
 
 ### Sternoclavicular Joint (Medial Clavicular Joint)
 
@@ -8,7 +8,7 @@
 |**Articulation**|Medial end of clavicle ↔ manubrium of sternum|
 |**Articular disk**|Fibrocartilaginous; compensates for mismatch of saddle-shaped surfaces|
 |**Ligaments**|Anterior & posterior sternoclavicular ligaments, interclavicular ligament, costoclavicular ligament|
-![[Pasted image 20260402141350.png]]
+![Pasted image 20260402141350.png](00_Assets/Attachments/Pasted%20image%2020260402141350.png)
 
 ---
 
@@ -21,7 +21,7 @@
 |**Articular disk**|Variably present; when present gives greater mobility|
 |**Ligaments**|Acromioclavicular ligament, coracoclavicular ligament (trapezoid + conoid), coracoacromial ligament|
 |**Note**|Flat surfaces → mobility greatly limited by strong ligaments|
-![[Pasted image 20260402141424.png]]
+![Pasted image 20260402141424.png](00_Assets/Attachments/Pasted%20image%2020260402141424.png)
 
 ---
 
@@ -46,8 +46,8 @@
 |**Superior glenohumeral ligament**|Upper glenoid margin → intertubercular groove / lesser tubercle. Forms rotator interval with coracohumeral ligament|
 |**Middle glenohumeral ligament**|Upper glenoid margin → anatomic neck of humerus. Crosses subscapularis tendon at right angle|
 |**Inferior glenohumeral ligament**|Inferior glenoid margin → anatomic/surgical neck. Three parts: anterior band + posterior band + axillary recess. Forms a hammock during abduction. Most important for anteroinferior stability|
-![[Pasted image 20260402141549.png]]
-![[Pasted image 20260402141621.png]]
+![Pasted image 20260402141549.png](00_Assets/Attachments/Pasted%20image%2020260402141549.png)
+![Pasted image 20260402141621.png](00_Assets/Attachments/Pasted%20image%2020260402141621.png)
 
 ---
 
@@ -69,7 +69,7 @@
 |**Subcoracoid bursa**|Near coracoid; consistently communicates|
 |**Tendon sheath of long head of biceps**|Passes through intertubercular groove; communicates with joint cavity|
 |**Subacromial bursa**|Between coracoacromial arch and rotator cuff; does NOT communicate with joint cavity|
-![[Pasted image 20260402141754.png]]
+![Pasted image 20260402141754.png](00_Assets/Attachments/Pasted%20image%2020260402141754.png)
 
 ---
 
@@ -91,8 +91,8 @@
 | **Rhomboid minor**         | • Spinous processes C6–C7                                                                                          | Medial border of scapula (above spine)                                                                                                                                                           | Dorsal scapular nerve (C4, C5)            | • Steadies scapula  <br>• Draws medially upward                                                                                                          |
 | **Rhomboid major**         | • Spinous processes T1–T4                                                                                          | Medial border of scapula (below spine)                                                                                                                                                           | Dorsal scapular nerve (C4, C5)            | • Same                                                                                                                                                   |
 | **Omohyoid**               | • Superior border of scapula                                                                                       | Body of hyoid bone                                                                                                                                                                               | Ansa cervicalis (C1–C3)                   | • Depresses hyoid  <br>• Tenses cervical fascia (maintains IJV patency)                                                                                  |
-![[Pasted image 20260402142807.png]]
-![[Pasted image 20260402142833.png]]
+![Pasted image 20260402142807.png](00_Assets/Attachments/Pasted%20image%2020260402142807.png)
+![Pasted image 20260402142833.png](00_Assets/Attachments/Pasted%20image%2020260402142833.png)
 
 
 ---
@@ -105,7 +105,7 @@
 |**Infraspinatus**|• Infraspinous fossa|Greater tubercle|Suprascapular nerve (C4–C6)|• External rotation|
 |**Teres minor**|• Lateral border of scapula|Greater tubercle|Axillary nerve (C5, C6)|• External rotation  <br>• Weak adduction|
 |**Subscapularis**|• Subscapular fossa|Lesser tubercle|Upper & lower subscapular nerves (C5, C6)|• Internal rotation|
-![[Pasted image 20260402142855.png]]
+![Pasted image 20260402142855.png](00_Assets/Attachments/Pasted%20image%2020260402142855.png)
 
 ---
 
@@ -118,6 +118,6 @@
 |**Teres major**|• Inferior angle of scapula|Crest of lesser tubercle|Lower subscapular nerve (C5, C6)|• Internal rotation  <br>• Adduction  <br>• Extension|
 |**Pectoralis major**|• Clavicular part: medial half of clavicle  <br>• Sternocostal part: sternum + costal cartilages 2–6  <br>• Abdominal part: anterior layer of rectus sheath|Crest of greater tubercle|Medial & lateral pectoral nerves (C5–T1)|• Entire: adduction, internal rotation  <br>• Clavicular & sternocostal: flexion  <br>• Assists respiration (shoulder girdle fixed)|
 |**Coracobrachialis**|• Coracoid process|Humerus (in line with crest of lesser tubercle)|Musculocutaneous nerve (C5–C7)|• Flexion  <br>• Adduction  <br>• Internal rotation|
-![[Pasted image 20260402142916.png]]
-![[Pasted image 20260402143006.png]]
-![[Pasted image 20260402142939.png]]
+![Pasted image 20260402142916.png](00_Assets/Attachments/Pasted%20image%2020260402142916.png)
+![Pasted image 20260402143006.png](00_Assets/Attachments/Pasted%20image%2020260402143006.png)
+![Pasted image 20260402142939.png](00_Assets/Attachments/Pasted%20image%2020260402142939.png)

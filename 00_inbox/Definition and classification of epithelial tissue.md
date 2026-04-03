@@ -2,7 +2,7 @@
 
 ## 1. Cell Shapes
 
-![[Pasted image 20260402184204.png]]
+![Pasted image 20260402184204.png](00_Assets/Attachments/Pasted%20image%2020260402184204.png)
 
 |Shape|Height vs Width|Nucleus|Location Examples|
 |---|---|---|---|
@@ -22,7 +22,7 @@
 - Nutrients and O₂ are supplied by **diffusion** from capillaries in the underlying connective tissue
 
 ### Cell Polarity
-![[Pasted image 20260402184238.png]]
+![Pasted image 20260402184238.png](00_Assets/Attachments/Pasted%20image%2020260402184238.png)
 
 
 |Domain|Location|Features|
@@ -37,7 +37,7 @@
 
 ## 3. Basement Membrane
 
-![[Pasted image 20260402184304.png]]
+![Pasted image 20260402184304.png](00_Assets/Attachments/Pasted%20image%2020260402184304.png)
 
 
 ### Definition
@@ -198,7 +198,7 @@ Basement Membrane
 
 ### Microvilli — Details
 
-![[Pasted image 20260402184352.png]]
+![Pasted image 20260402184352.png](00_Assets/Attachments/Pasted%20image%2020260402184352.png)
 
 - 20–30 parallel actin filaments per microvillus
 - Cross-linked by **Fimbrin** (tight bundling) and **Villin** (unique to microvilli; immunohistochemical marker)
@@ -221,7 +221,7 @@ Basement Membrane
 
 ### Cilia — Axoneme (9+2)
 
-![[Pasted image 20260402184407.png]]
+![Pasted image 20260402184407.png](00_Assets/Attachments/Pasted%20image%2020260402184407.png)
 
 |Component|Function|
 |---|---|
@@ -279,8 +279,8 @@ Basement Membrane
 
 #### Layers of Epidermis (deep → superficial: **B-S-G-L-C**)
 
-![[Pasted image 20260402184442.png]]
-![[Pasted image 20260402184452.png]]
+![Pasted image 20260402184442.png](00_Assets/Attachments/Pasted%20image%2020260402184442.png)
+![Pasted image 20260402184452.png](00_Assets/Attachments/Pasted%20image%2020260402184452.png)
 
 |Layer|Features|Mnemonic|
 |---|---|---|
@@ -296,7 +296,7 @@ Basement Membrane
 
 - **Location:** Bladder, ureters, renal calyces (= urinary tract only)
 - **Umbrella cells (dome cells)** — rounded when relaxed, flattened when stretched
-![[Pasted image 20260402184546.png]]
+![Pasted image 20260402184546.png](00_Assets/Attachments/Pasted%20image%2020260402184546.png)
 - Surface contains **uroplakin** protein → barrier preventing urine penetration
 
 > 💡 Transitionalは泌尿器系専用。膀胱膨張時にumbrella cellsが扁平化。Uroplakinが尿浸透バリア。
@@ -338,7 +338,7 @@ Basement Membrane
 - Duct branching: **Simple** (unbranched) vs **Compound** (branched)
 - Secretory portion shape: **Tubular** vs **Acinar/Alveolar** vs **Tubuloacinar**
 
-![[Pasted image 20260402184620.png]]
+![Pasted image 20260402184620.png](00_Assets/Attachments/Pasted%20image%2020260402184620.png)
 
 #### Simple Glands
 
@@ -371,13 +371,13 @@ Basement Membrane
 
 ### Axis 2: Modes of Secretion
 
-![[Pasted image 20260402184648.png]]
+![Pasted image 20260402184648.png](00_Assets/Attachments/Pasted%20image%2020260402184648.png)
 
 | Mode          | Cell Damage         | What Released                           | Key Example                       |                                      |
 | ------------- | ------------------- | --------------------------------------- | --------------------------------- | ------------------------------------ |
-| **Merocrine** | None (exocytosis)   | Vesicle contents only                   | Pancreas, Salivary, Eccrine sweat | ![[Pasted image 20260402184707.png]] |
-| **Holocrine** | Entire cell dies    | Whole cell = secretion                  | **Sebaceous glands**              | ![[Pasted image 20260402184718.png]] |
-| **Apocrine**  | Apical portion lost | Membrane-bound apical cytoplasm (lipid) | **Mammary glands**                | ![[Pasted image 20260402184731.png]] |
+| **Merocrine** | None (exocytosis)   | Vesicle contents only                   | Pancreas, Salivary, Eccrine sweat | ![Pasted image 20260402184707.png](00_Assets/Attachments/Pasted%20image%2020260402184707.png) |
+| **Holocrine** | Entire cell dies    | Whole cell = secretion                  | **Sebaceous glands**              | ![Pasted image 20260402184718.png](00_Assets/Attachments/Pasted%20image%2020260402184718.png) |
+| **Apocrine**  | Apical portion lost | Membrane-bound apical cytoplasm (lipid) | **Mammary glands**                | ![Pasted image 20260402184731.png](00_Assets/Attachments/Pasted%20image%2020260402184731.png) |
 
 - Mammary glands use **both**: lipid = apocrine, protein = merocrine
 
@@ -394,7 +394,7 @@ Basement Membrane
 |**Mixed**|Both|Serous = dark caps over pale mucous acini|—|
 
 - In mixed glands, serous cells form a crescent-shaped cap over mucous acini = **serous demilune**
-![[Pasted image 20260402184814.png]]
+![Pasted image 20260402184814.png](00_Assets/Attachments/Pasted%20image%2020260402184814.png)
 
 > 💡 Serous = dark（RER豊富→好塩基性）、Mucous = pale → スライド判読の最重要コントラスト
 
@@ -412,7 +412,7 @@ Basement Membrane
 
 ### Goblet Cells — Unicellular Glands
 
-![[Pasted image 20260402184843.png]]
+![Pasted image 20260402184843.png](00_Assets/Attachments/Pasted%20image%2020260402184843.png)
 
 - Individual, isolated mucus-secreting cells scattered among other epithelial cells
 - **Not** a gland structure — they are **unicellular glands**

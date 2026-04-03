@@ -4,11 +4,113 @@ tags:
   - memo
 created: 2026-04-01 14:10
 ---
+
 # 医学ラテン語・ギリシャ語
 
 ---
 
-## 1. 臓器の形容詞
+## 1. 基本動詞語根（医学用語の「動詞部品」）
+
+未知の用語に出会ったとき、ここを知っていれば分解して意味を推測できる。
+
+|語根|意味|語源|派生語の例|
+|---|---|---|---|
+|-ducere|導く|L. _ducere_|ab**duct**ion（外転）、ad**duct**ion（内転）、circum**duct**ion（分回し）|
+|-ferre|運ぶ|L. _ferre_|af**ferent**（求心性）、ef**ferent**（遠心性）|
+|-trahere|引く|L. _trahere_|pro**tract**ion（前突）、re**tract**ion（後退）、ex**tract**ion（抜去）|
+|-capere|取る|L. _capere_|re**cept**or（受容体）|
+|-jacere|投げる|L. _jacere_|in**ject**ion（注射）、e**ject**ion（駆出）|
+|-mittere|送る|L. _mittere_|trans**miss**ion（伝達）、e**miss**ary（導出静脈）|
+|-tendere|伸ばす|L. _tendere_|ex**tens**ion（伸展）|
+|-flectere|曲げる|L. _flectere_|**flex**ion（屈曲）、re**flex**（反射）|
+|-scindere|切る|L. _scindere_|ex**cis**ion（切除）、in**cis**ion（切開）|
+|-fundere|注ぐ|L. _fundere_|per**fus**ion（灌流）、trans**fus**ion（輸血）|
+|-stringere|締める|L. _stringere_|con**strict**ion（収縮）|
+|-vertere|回す・向ける|L. _vertere_|in**vers**ion（内反）、e**vers**ion（外反）|
+|-premere|押す|L. _premere_|com**press**ion（圧迫）、de**press**ion（下制）|
+|-rumpere|破る|L. _rumpere_|**rupt**ure（破裂）、e**rupt**ion（萌出）|
+|-secare|切る|L. _secare_|**sect**ion（切面）、dis**sect**ion（解剖）|
+
+---
+
+## 2. 数・量の接頭辞
+
+|接頭辞|意味|語源|日本語（ふりがな）|例|
+|---|---|---|---|---|
+|mono- / uni-|1|Gk. _monos_ / L. _unus_|単（たん）/一（いち）|monocyte＝単球（たんきゅう）、unilateral＝一側性（いっそくせい）|
+|bi- / di-|2|L. _bis_ / Gk. _dis_|二（に）/両（りょう）|bilateral＝両側性（りょうそくせい）、diplopia＝複視（ふくし）|
+|tri-|3|L./Gk. _tres/treis_|三（さん）|tricuspid＝三尖（さんせん）、trigeminal＝三叉（さんさ）|
+|quadri- / tetra-|4|L. _quattuor_ / Gk. _tetra_|四（し）|quadriceps＝四頭筋（しとうきん）、tetraplegia＝四肢麻痺（ししまひ）|
+|poly- / multi-|多数|Gk. _polys_ / L. _multus_|多（た）|polycystic＝多嚢胞性（たのうほうせい）、multifocal＝多巣性（たそうせい）|
+|hemi- / semi-|半分|Gk. _hemi_ / L. _semi_|半（はん）|hemiplegia＝片麻痺（かたまひ）、semilunar＝半月（はんげつ）|
+|oligo-|少ない|Gk. _oligos_|乏（ぼう）/少（しょう）|oliguria＝乏尿（ぼうにょう）|
+|pan-|全て|Gk. _pan_|汎（はん）/全（ぜん）|pandemic＝汎流行（はんりゅうこう）、pancytopenia＝汎血球減少症（はんけっきゅうげんしょうしょう）|
+
+---
+
+## 3. 方向・位置の接頭辞
+
+|接頭辞|意味|語源|日本語（ふりがな）|例|
+|---|---|---|---|---|
+|supra-|上|L. _supra_|～上（じょう）|suprarenal＝副腎（ふくじん）/腎上体（じんじょうたい）|
+|infra-|下|L. _infra_|～下（か）|infraorbital＝眼窩下（がんかか）|
+|sub-|下|L. _sub_|～下（か）|subclavian＝鎖骨下（さこつか）|
+|inter-|間|L. _inter_|～間（かん）|intercostal＝肋間（ろっかん）|
+|retro-|後方|L. _retro_|後腹膜（こうふくまく）等|retroperitoneal＝後腹膜（こうふくまく）|
+|peri-|周囲|Gk. _peri_|～周囲（しゅうい）|pericardium＝心膜（しんまく）|
+|para-|傍|Gk. _para_|傍（ぼう）/副（ふく）|parathyroid＝副甲状腺（ふくこうじょうせん）|
+|endo-|内|Gk. _endon_|～内（ない）|endocardium＝心内膜（しんないまく）|
+|epi-|上・表面|Gk. _epi_|～外/上（がい/じょう）|epicardium＝心外膜（しんがいまく）|
+|trans-|横切って|L. _trans_|横（おう）|transverse＝横行（おうこう）|
+|ex- / exo- / ecto-|外|L. _ex_ / Gk. _exo / ektos_|外（がい）|exocrine＝外分泌（がいぶんぴつ）、ectoderm＝外胚葉（がいはいよう）|
+|syn- / sym-|共に|Gk. _syn_|合（ごう）/共（きょう）|synarthrosis＝不動関節（ふどうかんせつ）、symphysis＝結合（けつごう）|
+|dia-|通って・離れて|Gk. _dia_|透（とう）/横（おう）|diarthrosis＝可動関節（かどうかんせつ）、dialysis＝透析（とうせき）|
+|amphi-|両側・中間|Gk. _amphi_|両（りょう）|amphiarthrosis＝半可動関節（はんかどうかんせつ）|
+
+---
+
+## 4. 状態・程度の接頭辞
+
+|接頭辞|意味|語源|日本語（ふりがな）|例|
+|---|---|---|---|---|
+|hyper-|過剰|Gk. _hyper_ (超えて)|高（こう）/過（か）|hypertension＝高血圧（こうけつあつ）、hyperglycemia＝高血糖（こうけっとう）|
+|hypo-|不足・下|Gk. _hypo_ (下に)|低（てい）/減（げん）|hypotension＝低血圧（ていけつあつ）、hypothermia＝低体温症（ていたいおんしょう）|
+|dys-|異常・困難|Gk. _dys_ (悪い)|困難（こんなん）/障害（しょうがい）|dyspnea＝呼吸困難（こきゅうこんなん）、dysphagia＝嚥下障害（えんげしょうがい）|
+|eu-|正常・良い|Gk. _eu_ (良い)|正（せい）/良（りょう）|eupnea＝正常呼吸（せいじょうこきゅう）、euthyroid＝甲状腺機能正常（こうじょうせんきのうせいじょう）|
+|a- / an-|無い・欠如|Gk. _a/an_ (否定)|無（む）/欠（けつ）|anemia＝貧血（ひんけつ）、apnea＝無呼吸（むこきゅう）|
+|tachy-|速い|Gk. _tachys_ (速い)|頻（ひん）|tachycardia＝頻脈（ひんみゃく）、tachypnea＝頻呼吸（ひんこきゅう）|
+|brady-|遅い|Gk. _bradys_ (遅い)|徐（じょ）|bradycardia＝徐脈（じょみゃく）|
+|macro-|大きい|Gk. _makros_|大（だい）/巨（きょ）|macrocyte＝大赤血球（だいせっけっきゅう）、macrophage＝大食細胞（だいしょくさいぼう）/マクロファージ|
+|micro-|小さい|Gk. _mikros_|小（しょう）/微（び）|microcyte＝小赤血球（しょうせっけっきゅう）|
+|neo-|新しい|Gk. _neos_ (新しい)|新（しん）|neoplasm＝新生物（しんせいぶつ）、neonatal＝新生児（しんせいじ）|
+|pseudo-|偽|Gk. _pseudes_ (偽の)|偽（ぎ）|pseudomembrane＝偽膜（ぎまく）|
+|iso-|等しい|Gk. _isos_ (等しい)|等（とう）|isotonic＝等張（とうちょう）|
+|homo- / homeo-|同じ|Gk. _homos / homoios_|同（どう）|homeostasis＝恒常性（こうじょうせい）|
+|hetero-|異なる|Gk. _heteros_ (他の)|異（い）|heterogeneous＝異質（いしつ）|
+|auto-|自己|Gk. _autos_ (自分)|自己（じこ）|autoimmune＝自己免疫（じこめんえき）|
+|allo-|他|Gk. _allos_ (他の)|同種（どうしゅ）|allograft＝同種移植（どうしゅいしょく）|
+|crypto-|隠れた|Gk. _kryptos_ (隠す)|潜伏（せんぷく）/停留（ていりゅう）|cryptorchidism＝停留精巣（ていりゅうせいそう）|
+
+---
+
+## 5. 色の接頭辞
+
+|接頭辞|意味|語源|日本語（ふりがな）|例|
+|---|---|---|---|---|
+|erythro-|赤|Gk. _erythros_|赤（せき）|erythrocyte＝赤血球（せっけっきゅう）、erythema＝紅斑（こうはん）|
+|leuko-|白|Gk. _leukos_|白（はく）|leukocyte＝白血球（はっけっきゅう）、leukoplakia＝白板症（はくばんしょう）|
+|melano-|黒|Gk. _melas, melanos_|黒（こく）|melanocyte＝メラノサイト/色素細胞（しきそさいぼう）、melanoma＝黒色腫（こくしょくしゅ）|
+|cyano-|青|Gk. _kyanos_|チアノーゼ/青（せい）|cyanosis＝チアノーゼ（皮膚の青紫色変化）|
+|xantho-|黄|Gk. _xanthos_|黄（おう）|xanthoma＝黄色腫（おうしょくしゅ）|
+|chromo-|色|Gk. _chroma_|色（しき）|chromosome＝染色体（せんしょくたい）、chromaffin＝クロム親和性（しんわせい）|
+|rhodo-|赤紫・バラ色|Gk. _rhodon_|ロド|rhodopsin＝ロドプシン（視紅）|
+|polio-|灰白|Gk. _polios_|灰白（かいはく）|poliomyelitis＝灰白髄炎（かいはくずいえん）|
+|chloro-|緑|Gk. _chloros_|緑（りょく）|chlorophyll＝クロロフィル/葉緑素（ようりょくそ）|
+|cirrho-|黄褐色|Gk. _kirrhos_|黄褐（おうかつ）|cirrhosis＝肝硬変（かんこうへん）（原義：黄褐色化）|
+
+---
+
+## 6. 臓器の形容詞
 
 |英語名|形容詞 (L/Gk)|語源|日本語医学用語（ふりがな）|使用例|
 |---|---|---|---|---|
@@ -47,7 +149,7 @@ created: 2026-04-01 14:10
 
 ---
 
-## 2. 体の部位・組織の形容詞
+## 7. 体の部位・組織の形容詞
 
 |英語名|形容詞 (L/Gk)|語源|日本語医学用語（ふりがな）|使用例|
 |---|---|---|---|---|
@@ -79,6 +181,13 @@ created: 2026-04-01 14:10
 |Mouth|oral|L. _os, oris_ (口)|口腔（こうくう）|oral cavity＝口腔（こうくう）|
 |Tongue|lingual|L. _lingua_ (舌)|舌（ぜつ）|lingual artery＝舌動脈（ぜつどうみゃく）|
 |Tooth|dental|L. _dens, dentis_ (歯)|歯（し）|dental artery＝歯動脈（しどうみゃく）|
+
+---
+
+## 8. 組織・膜の形容詞
+
+|英語名|形容詞 (L/Gk)|語源|日本語医学用語（ふりがな）|使用例|
+|---|---|---|---|---|
 |Skin|cutaneous|L. _cutis_ (皮膚)|皮（ひ）|cutaneous nerve＝皮神経（ひしんけい）|
 |Skin|dermal / dermo-|Gk. _derma_ (皮膚)|皮膚（ひふ）|dermatitis＝皮膚炎（ひふえん）|
 |Bone|osseous|L. _os, ossis_ (骨)|骨（こつ）|osseous tissue＝骨組織（こつそしき）|
@@ -89,27 +198,72 @@ created: 2026-04-01 14:10
 |Vein|venous|L. _vena_ (静脈)|静脈（じょうみゃく）|venous return＝静脈還流（じょうみゃくかんりゅう）|
 |Vein|phlebo-|Gk. _phleps_ (静脈)|静脈（じょうみゃく）|phlebitis＝静脈炎（じょうみゃくえん）|
 |Artery|arterial|Gk. _arteria_ (空気管→動脈)|動脈（どうみゃく）|arterial blood＝動脈血（どうみゃくけつ）|
+|Meninges|meningeal|Gk. _meninx_ (膜)|髄膜（ずいまく）|meningeal artery＝髄膜動脈（ずいまくどうみゃく）|
+|Fascia|fascial|L. _fascia_ (帯)|筋膜（きんまく）|fascial sheath＝筋膜鞘（きんまくしょう）|
+|Periosteum|periosteal|Gk. _peri_ + _osteon_|骨膜（こつまく）|periosteal reaction＝骨膜反応（こつまくはんのう）|
+|Endothelium|endothelial|Gk. _endon_ + _thele_ (乳首→上皮)|内皮（ないひ）|endothelial cell＝内皮細胞（ないひさいぼう）|
+|Epithelium|epithelial|Gk. _epi_ + _thele_|上皮（じょうひ）|epithelial tissue＝上皮組織（じょうひそしき）|
+|Cartilage|chondral|Gk. _chondros_ (軟骨)|軟骨（なんこつ）|chondrocyte＝軟骨細胞（なんこつさいぼう）|
+|Tendon|tendinous|L. _tendo_ (伸ばす)|腱（けん）|tendinous intersection＝腱画（けんかく）|
+|Ligament|ligamentous|L. _ligare_ (結ぶ)|靭帯（じんたい）|ligamentous injury＝靭帯損傷（じんたいそんしょう）|
 
 ---
 
-## 3. 方向・位置の接頭辞
+## 9. 細胞・組織関連の接尾辞
 
-|接頭辞|意味|語源|日本語（ふりがな）|例|
+Histologyで頻出する「細胞の役割」を表す接尾辞。
+
+|接尾辞|意味|語源|日本語（ふりがな）|例|
 |---|---|---|---|---|
-|supra-|上|L. _supra_|～上（じょう）|suprarenal＝副腎（ふくじん）/腎上体（じんじょうたい）|
-|infra-|下|L. _infra_|～下（か）|infraorbital＝眼窩下（がんかか）|
-|sub-|下|L. _sub_|～下（か）|subclavian＝鎖骨下（さこつか）|
-|inter-|間|L. _inter_|～間（かん）|intercostal＝肋間（ろっかん）|
-|retro-|後方|L. _retro_|後腹膜（こうふくまく）等|retroperitoneal＝後腹膜（こうふくまく）|
-|peri-|周囲|Gk. _peri_|～周囲（しゅうい）|pericardium＝心膜（しんまく）|
-|para-|傍|Gk. _para_|傍（ぼう）/副（ふく）|parathyroid＝副甲状腺（ふくこうじょうせん）|
-|endo-|内|Gk. _endon_|～内（ない）|endocardium＝心内膜（しんないまく）|
-|epi-|上・表面|Gk. _epi_|～外/上（がい/じょう）|epicardium＝心外膜（しんがいまく）|
-|trans-|横切って|L. _trans_|横（おう）|transverse＝横行（おうこう）|
+|-cyte|成熟した細胞|Gk. _kytos_ (容器→細胞)|～細胞（さいぼう）|osteocyte＝骨細胞（こつさいぼう）、erythrocyte＝赤血球（せっけっきゅう）|
+|-blast|未熟な形成細胞|Gk. _blastos_ (芽)|～芽細胞（がさいぼう）|osteoblast＝骨芽細胞（こつがさいぼう）、fibroblast＝線維芽細胞（せんいがさいぼう）|
+|-clast|破壊する細胞|Gk. _klastos_ (壊された)|～破壊細胞（はかいさいぼう）|osteoclast＝破骨細胞（はこつさいぼう）|
+|-phage|食べる細胞|Gk. _phagein_ (食べる)|食（しょく）/貪食（どんしょく）|macrophage＝マクロファージ/大食細胞（だいしょくさいぼう）|
+|-phil / -philic|親和性がある|Gk. _philos_ (好む)|好（こう）/親和（しんわ）|neutrophil＝好中球（こうちゅうきゅう）、eosinophil＝好酸球（こうさんきゅう）、basophil＝好塩基球（こうえんききゅう）|
+|-phobic|忌避性がある|Gk. _phobos_ (恐れ)|嫌（けん）/疎水（そすい）|hydrophobic＝疎水性（そすいせい）|
+|-plasm / -plasma|形成されたもの|Gk. _plasma_ (形成物)|形質（けいしつ）/～質（しつ）|cytoplasm＝細胞質（さいぼうしつ）、neoplasm＝新生物（しんせいぶつ）|
+|-gen / -genic|産生する|Gk. _genesis_ (起源)|～原性（げんせい）|pathogen＝病原体（びょうげんたい）、carcinogenic＝発癌性（はつがんせい）|
+|-poiesis|産生・造成|Gk. _poiesis_ (作ること)|～造成（ぞうせい）|hematopoiesis＝造血（ぞうけつ）、erythropoiesis＝赤血球造成（せっけっきゅうぞうせい）|
 
 ---
 
-## 4. 動き・運動の用語
+## 10. 関節学の用語
+
+### 10a. 可動性による分類
+
+|用語|意味|語源|日本語（ふりがな）|例|
+|---|---|---|---|---|
+|synarthrosis|不動関節|Gk. _syn_ (共に) + _arthrosis_ (関節)|不動関節（ふどうかんせつ）|頭蓋の縫合（suture）|
+|amphiarthrosis|半可動関節|Gk. _amphi_ (両側) + _arthrosis_|半可動関節（はんかどうかんせつ）|恥骨結合（symphysis pubis）|
+|diarthrosis|可動関節（＝synovial joint）|Gk. _dia_ (通って) + _arthrosis_|可動関節（かどうかんせつ）|膝関節、肩関節|
+
+### 10b. 構造による分類
+
+|用語|意味|語源|日本語（ふりがな）|
+|---|---|---|---|
+|fibrous joint|線維性関節|L. _fibra_ (線維)|線維性関節（せんいせいかんせつ）|
+|suture|縫合|L. _sutura_ (縫い合わせ)|縫合（ほうごう）|
+|gomphosis|釘植|Gk. _gomphos_ (釘)|釘植（ていしょく）|
+|syndesmosis|靭帯結合|Gk. _syndesmos_ (結合)|靭帯結合（じんたいけつごう）|
+|cartilaginous joint|軟骨性関節|L. _cartilago_ (軟骨)|軟骨性関節（なんこつせいかんせつ）|
+|synchondrosis|軟骨結合|Gk. _syn_ + _chondros_ (軟骨)|軟骨結合（なんこつけつごう）|
+|symphysis|線維軟骨結合|Gk. _symphysis_ (共に成長する)|結合（けつごう）|
+|synovial joint|滑膜性関節|Gk. _syn_ + L. _ovum_ (卵→卵白様の液)|滑膜性関節（かつまくせいかんせつ）|
+
+### 10c. 滑膜性関節の運動形態
+
+|用語|意味|語源|日本語（ふりがな）|例|
+|---|---|---|---|---|
+|ginglymus (hinge)|蝶番関節|Gk. _ginglymos_ (蝶番)|蝶番関節（ちょうつがいかんせつ）|肘関節（humero-ulnar）|
+|trochoid (pivot)|車軸関節|Gk. _trochoeides_ (車輪の形)|車軸関節（しゃじくかんせつ）|橈尺関節（proximal radioulnar）|
+|condyloid (ellipsoid)|楕円関節|Gk. _kondylos_ (関節隆起)|楕円関節（だえんかんせつ）|橈骨手根関節（radiocarpal）|
+|sellar (saddle)|鞍関節|L. _sella_ (鞍)|鞍関節（あんかんせつ）|CM関節（carpometacarpal of thumb）|
+|enarthrosis (ball-and-socket)|球関節|Gk. _en_ (中に) + _arthrosis_|球関節（きゅうかんせつ）|肩関節、股関節|
+|arthrodia (plane)|平面関節|Gk. _arthrodia_ (滑る関節)|平面関節（へいめんかんせつ）|椎間関節（facet joints）|
+
+---
+
+## 11. 動き・運動の用語
 
 |英語|意味|語源|日本語（ふりがな）|対義語|
 |---|---|---|---|---|
@@ -133,7 +287,7 @@ created: 2026-04-01 14:10
 
 ---
 
-## 5. 病態を表す接尾辞
+## 12. 病態を表す接尾辞
 
 |接尾辞|意味|語源|日本語（ふりがな）|例|
 |---|---|---|---|---|
@@ -160,7 +314,7 @@ created: 2026-04-01 14:10
 
 ---
 
-## 6. 処置・手技の接尾辞
+## 13. 処置・手技の接尾辞
 
 |接尾辞|意味|語源|日本語（ふりがな）|例|
 |---|---|---|---|---|
@@ -181,51 +335,13 @@ created: 2026-04-01 14:10
 
 ---
 
-## 7. 数・量の接頭辞
-
-|接頭辞|意味|語源|日本語（ふりがな）|例|
-|---|---|---|---|---|
-|mono- / uni-|1|Gk. _monos_ / L. _unus_|単（たん）/一（いち）|monocyte＝単球（たんきゅう）、unilateral＝一側性（いっそくせい）|
-|bi- / di-|2|L. _bis_ / Gk. _dis_|二（に）/両（りょう）|bilateral＝両側性（りょうそくせい）、diplopia＝複視（ふくし）|
-|tri-|3|L./Gk. _tres/treis_|三（さん）|tricuspid＝三尖（さんせん）、trigeminal＝三叉（さんさ）|
-|quadri- / tetra-|4|L. _quattuor_ / Gk. _tetra_|四（し）|quadriceps＝四頭筋（しとうきん）、tetraplegia＝四肢麻痺（ししまひ）|
-|poly- / multi-|多数|Gk. _polys_ / L. _multus_|多（た）|polycystic＝多嚢胞性（たのうほうせい）、multifocal＝多巣性（たそうせい）|
-|hemi- / semi-|半分|Gk. _hemi_ / L. _semi_|半（はん）|hemiplegia＝片麻痺（かたまひ）、semilunar＝半月（はんげつ）|
-|oligo-|少ない|Gk. _oligos_|乏（ぼう）/少（しょう）|oliguria＝乏尿（ぼうにょう）|
-|pan-|全て|Gk. _pan_|汎（はん）/全（ぜん）|pandemic＝汎流行（はんりゅうこう）、pancytopenia＝汎血球減少症（はんけっきゅうげんしょうしょう）|
-
----
-
-## 8. 状態を表す接頭辞
-
-|接頭辞|意味|語源|日本語（ふりがな）|例|
-|---|---|---|---|---|
-|hyper-|過剰|Gk. _hyper_ (超えて)|高（こう）/過（か）|hypertension＝高血圧（こうけつあつ）、hyperglycemia＝高血糖（こうけっとう）|
-|hypo-|不足・下|Gk. _hypo_ (下に)|低（てい）/減（げん）|hypotension＝低血圧（ていけつあつ）、hypothermia＝低体温症（ていたいおんしょう）|
-|dys-|異常・困難|Gk. _dys_ (悪い)|困難（こんなん）/障害（しょうがい）|dyspnea＝呼吸困難（こきゅうこんなん）、dysphagia＝嚥下障害（えんげしょうがい）|
-|eu-|正常・良い|Gk. _eu_ (良い)|正（せい）/良（りょう）|eupnea＝正常呼吸（せいじょうこきゅう）、euthyroid＝甲状腺機能正常（こうじょうせんきのうせいじょう）|
-|a- / an-|無い・欠如|Gk. _a/an_ (否定)|無（む）/欠（けつ）|anemia＝貧血（ひんけつ）、apnea＝無呼吸（むこきゅう）|
-|tachy-|速い|Gk. _tachys_ (速い)|頻（ひん）|tachycardia＝頻脈（ひんみゃく）、tachypnea＝頻呼吸（ひんこきゅう）|
-|brady-|遅い|Gk. _bradys_ (遅い)|徐（じょ）|bradycardia＝徐脈（じょみゃく）|
-|macro-|大きい|Gk. _makros_|大（だい）/巨（きょ）|macrocyte＝大赤血球（だいせっけっきゅう）、macrophage＝大食細胞（だいしょくさいぼう）/マクロファージ|
-|micro-|小さい|Gk. _mikros_|小（しょう）/微（び）|microcyte＝小赤血球（しょうせっけっきゅう）|
-|neo-|新しい|Gk. _neos_ (新しい)|新（しん）|neoplasm＝新生物（しんせいぶつ）、neonatal＝新生児（しんせいじ）|
-|pseudo-|偽|Gk. _pseudes_ (偽の)|偽（ぎ）|pseudomembrane＝偽膜（ぎまく）|
-|iso-|等しい|Gk. _isos_ (等しい)|等（とう）|isotonic＝等張（とうちょう）|
-|homo- / homeo-|同じ|Gk. _homos / homoios_|同（どう）|homeostasis＝恒常性（こうじょうせい）|
-|hetero-|異なる|Gk. _heteros_ (他の)|異（い）|heterogeneous＝異質（いしつ）|
-|auto-|自己|Gk. _autos_ (自分)|自己（じこ）|autoimmune＝自己免疫（じこめんえき）|
-|allo-|他|Gk. _allos_ (他の)|同種（どうしゅ）|allograft＝同種移植（どうしゅいしょく）|
-|crypto-|隠れた|Gk. _kryptos_ (隠す)|潜伏（せんぷく）/停留（ていりゅう）|cryptorchidism＝停留精巣（ていりゅうせいそう）|
-
----
-
-## 9. よく出る紛らわしいペア
+## 14. よく出る紛らわしいペア
 
 |ペア|区別|日本語での区別（ふりがな）|
 |---|---|---|
 |-otomy vs -ectomy vs -ostomy|切開 vs 切除 vs 造口|切開術（せっかいじゅつ）vs 切除術（せつじょじゅつ）vs 造設術（ぞうせつじゅつ）|
 |-itis vs -osis|炎症性 vs 非炎症性|～炎（えん）vs ～症（しょう）|
+|-blast vs -cyte vs -clast|形成 vs 成熟 vs 破壊|芽細胞（がさいぼう）vs 細胞（さいぼう）vs 破壊細胞（はかいさいぼう）|
 |ileum vs ilium|回腸（小腸末端）vs 腸骨（骨盤の骨）|回腸（かいちょう）vs 腸骨（ちょうこつ）。形容詞 ileal vs iliac|
 |ureter vs urethra|尿管（腎→膀胱）vs 尿道（膀胱→外）|尿管（にょうかん）vs 尿道（にょうどう）|
 |afferent vs efferent|求心性 vs 遠心性。L. _ferre_ (運ぶ)|求心性（きゅうしんせい）vs 遠心性（えんしんせい）|
@@ -236,3 +352,4 @@ created: 2026-04-01 14:10
 |superior vs inferior|上方 vs 下方|上（じょう）vs 下（か）|
 |ipsilateral vs contralateral|同側 vs 対側。L. _ipse_ vs _contra_|同側（どうそく）vs 対側（たいそく）|
 |acute vs chronic|急性 vs 慢性。L. _acutus_ vs Gk. _chronos_|急性（きゅうせい）vs 慢性（まんせい）|
+|synarthrosis vs diarthrosis|不動 vs 可動。syn- (共に) vs dia- (離れて)|不動関節（ふどうかんせつ）vs 可動関節（かどうかんせつ）|

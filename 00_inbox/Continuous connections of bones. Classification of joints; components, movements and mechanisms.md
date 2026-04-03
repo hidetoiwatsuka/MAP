@@ -25,7 +25,7 @@ Joint movements are determined by the geometry of the articulating surfaces. Two
 - **Translational movement**
 - **Rotational movement**
 
-![[Pasted image 20260403102254.png|300]]
+![300](00_Assets/Attachments/Pasted%20image%2020260403102254.png)
 
 Translational movements are usually limited to 1–2 axes of motion. Rotational movements (in spheroidal joints) can have up to 3 axes.
 

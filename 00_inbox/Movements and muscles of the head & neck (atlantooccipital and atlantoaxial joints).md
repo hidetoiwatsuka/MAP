@@ -19,7 +19,7 @@
 |**Posterior atlanto-occipital membrane**|Posterior arch of atlas → occipital bone|
 
 **層構造（前→後）:** Apical + alar ligaments → cruciate ligament → tectorial membrane → dura mater / spinal cord
-![[Pasted image 20260402133052.png|500]]
+![500](00_Assets/Attachments/Pasted%20image%2020260402133052.png)
 
 ---
 
@@ -31,7 +31,7 @@
 |**Rectus capitis posterior minor**|Posterior tubercle of atlas (C1)|Inferior nuchal line (medial)|Suboccipital nerve (C1)|Extension of head|
 |**Obliquus capitis superior**|Transverse process of atlas (C1)|Occipital bone between nuchal lines|Suboccipital nerve (C1)|Extension, lateral flexion of head|
 |**Obliquus capitis inferior**|Spinous process of axis (C2)|Transverse process of atlas (C1)|Suboccipital nerve (C1)|Ipsilateral rotation of atlas on axis|
-![[Pasted image 20260402133717.png]]
+![Pasted image 20260402133717.png](00_Assets/Attachments/Pasted%20image%2020260402133717.png)
 
 ### Prevertebral Neck Muscles
 
@@ -41,7 +41,7 @@
 |**Longus colli**|Anterior surfaces C2–T3 bodies and transverse processes|Anterior tubercle of atlas, bodies C2–C4, transverse processes C5–C6|Anterior rami C2–C6|Flexion of cervical spine, slight rotation|
 |**Rectus capitis anterior**|Lateral mass of atlas (C1)|Basilar part of occipital bone|Anterior ramus C1|Flexion of head|
 |**Rectus capitis lateralis**|Transverse process of atlas (C1)|Jugular process of occipital bone|Anterior ramus C1|Lateral flexion of head|
-![[Pasted image 20260402133926.png]]
+![Pasted image 20260402133926.png](00_Assets/Attachments/Pasted%20image%2020260402133926.png)
 
 ### Movement summary table
 
