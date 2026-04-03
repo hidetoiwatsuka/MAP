@@ -1,1 +1,1 @@
-![[11_NucleusNuclearRadiations_2025_v22.pdf]]
+![11_NucleusNuclearRadiations_2025_v22.pdf](00_Assets/Attachments/11_NucleusNuclearRadiations_2025_v22.pdf)

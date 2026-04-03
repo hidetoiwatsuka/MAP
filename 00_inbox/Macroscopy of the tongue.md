@@ -1,4 +1,4 @@
-![[oral cavity (dragged) 2.pdf]]
+![oral cavity (dragged) 2.pdf](00_Assets/Attachments/oral%20cavity%20(dragged)%202.pdf)
 
 ## Tongue parts
 - papillary part : ant 2/3

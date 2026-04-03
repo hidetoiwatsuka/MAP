@@ -1,1 +1,1 @@
-![[Introduction_Radiations_20250910.pdf]]
+![Introduction_Radiations_20250910.pdf](00_Assets/Attachments/Introduction_Radiations_20250910.pdf)

@@ -1,1 +1,1 @@
-![[ext carotid a.pdf]]
+![ext carotid a.pdf](00_Assets/Attachments/ext%20carotid%20a.pdf)

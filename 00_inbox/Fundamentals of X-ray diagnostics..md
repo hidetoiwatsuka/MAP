@@ -1,1 +1,1 @@
-![[Xray_diag_20260225_ki.pdf]]
+![Xray_diag_20260225_ki.pdf](00_Assets/Attachments/Xray_diag_20260225_ki.pdf)

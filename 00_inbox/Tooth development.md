@@ -1,1 +1,1 @@
-![[03_Tooth_morphology_Shahbazi_2026 (dragged) 2.pdf]]
+![03_Tooth_morphology_Shahbazi_2026 (dragged) 2.pdf](00_Assets/Attachments/03_Tooth_morphology_Shahbazi_2026%20(dragged)%202.pdf)

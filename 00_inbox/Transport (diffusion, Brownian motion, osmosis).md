@@ -1,1 +1,1 @@
-![[Biofizika_II_2025_26_en1_eload1.pdf]]
+![Biofizika_II_2025_26_en1_eload1.pdf](00_Assets/Attachments/Biofizika_II_2025_26_en1_eload1.pdf)

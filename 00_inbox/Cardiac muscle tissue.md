@@ -1,1 +1,1 @@
-![[Muscle tissue vessels (dragged) 2.pdf]]
+![Muscle tissue vessels (dragged) 2.pdf](00_Assets/Attachments/Muscle%20tissue%20vessels%20(dragged)%202.pdf)

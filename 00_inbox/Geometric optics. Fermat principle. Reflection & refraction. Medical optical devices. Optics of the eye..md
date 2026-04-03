@@ -1,4 +1,4 @@
-![[02_Geometric_optics_20250917.pdf]]
+![02_Geometric_optics_20250917.pdf](00_Assets/Attachments/02_Geometric_optics_20250917.pdf)
 
 # Geometric Optics — Medical Biophysics I
 

@@ -1,1 +1,1 @@
-![[12_Development of the arteries_Nandor Nagy.pdf]]
+![12_Development of the arteries_Nandor Nagy.pdf](00_Assets/Attachments/12_Development%20of%20the%20arteries_Nandor%20Nagy.pdf)

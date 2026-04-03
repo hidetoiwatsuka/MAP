@@ -1,1 +1,1 @@
-![[08_Scatter_Absorption_20251029.pdf]]
+![08_Scatter_Absorption_20251029.pdf](00_Assets/Attachments/08_Scatter_Absorption_20251029.pdf)

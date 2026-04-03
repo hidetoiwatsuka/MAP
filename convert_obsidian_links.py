@@ -16,14 +16,18 @@ Obsidian の [[wikilinks]] / ![[embeds]] を Git/GitHub で動作する
   [[Note|表示名]]     →  [表示名](relative/path/Note.md)
   ![[Note Name]]      →  ![Note Name](relative/path/Note%20Name.md)
   ![[image.png]]      →  ![image.png](relative/path/image.png)
+  ![[File.pdf]]       →  ![File.pdf](../../00_inbox/00_Assets/Attachments/File.pdf)
+                         ※ PDFも添付ファイルフォルダへの相対リンクに変換
 
-  [[File.pdf]]        →  変換しない（そのまま）
-  ![[File.pdf]]       →  変換しない（そのまま）
+ファイル配置
+----------
+  添付ファイル : 00_inbox/00_Assets/Attachments/
+  新規ノート   : 00_inbox/
 
 特記事項
 --------
-- PDF リンクは変換せずそのまま残す（ローカルの Obsidian で動作、
-  GitHub では表示されないことを許容する設計）
+- PDF リンクも通常ファイルと同様に相対リンクへ変換する
+  （00_inbox/00_Assets/Attachments/ 内の実ファイルに紐付け）
 - macOS の HFS+ は NFD でファイル名を保存するが、Obsidian は NFC で
   リンクを書くため、Unicode NFC 正規化でマッチングを行う
 - リンク先が存在しない .md ノートは 00_inbox/ にプレースホルダーを
@@ -44,7 +48,7 @@ from pathlib import Path
 # ── パス設定（このスクリプトをvaultルートに置いて使う） ──────────
 VAULT_ROOT  = Path(__file__).parent.resolve()
 INBOX       = VAULT_ROOT / "00_inbox"
-ATTACHMENTS = INBOX / "01_Assets" / "Attachments"
+ATTACHMENTS = INBOX / "00_Assets" / "Attachments"
 
 # ── 変換しないファイル拡張子 ──────────────────────────────────────
 PDF_EXTENSIONS = {".pdf"}
@@ -126,15 +130,13 @@ WIKILINK_RE = re.compile(r"(!?)\[\[([^\[\]]+?)\]\]")
 
 
 def collect_unresolved(index: dict[str, Path]) -> tuple[set, set]:
-    """vault全体から解決できないリンクを収集する（PDFは除く）"""
+    """vault全体から解決できないリンクを収集する"""
     unresolved_md: set[str]  = set()
     unresolved_pdf: set[str] = set()
     for md_path in VAULT_ROOT.rglob("*.md"):
         text = md_path.read_text(encoding="utf-8")
         for _, inner in WIKILINK_RE.findall(text):
             note_name = inner.split("|")[0].strip()
-            if is_pdf(note_name):
-                continue  # PDFは変換しないのでスキップ
             if resolve_target(note_name, index) is None:
                 suffix = Path(nfc(note_name)).suffix.lower()
                 if suffix in PDF_EXTENSIONS:
@@ -187,10 +189,6 @@ def convert_file(md_path: Path, index: dict[str, Path]) -> tuple[str, int, int]:
             display = note_name if not has_file_extension(nfc(note_name)) \
                       else Path(nfc(note_name)).name
 
-        # PDF はそのまま残す
-        if is_pdf(note_name.strip()):
-            return m.group(0)
-
         target = resolve_target(note_name.strip(), index)
         if target is None:
             unresolved += 1
@@ -215,9 +213,12 @@ def main() -> None:
     index = build_index(VAULT_ROOT)
     print(f"Indexed {len(index)} files.\n")
 
-    # Step 2: 未解決リンクの収集（PDF除く）
-    unresolved_md, _ = collect_unresolved(index)
-    print(f"未解決 MD ノート: {len(unresolved_md)} 件\n")
+    # Step 2: 未解決リンクの収集
+    unresolved_md, unresolved_pdf = collect_unresolved(index)
+    print(f"未解決 MD ノート: {len(unresolved_md)} 件")
+    if unresolved_pdf:
+        print(f"未解決 PDF     : {len(unresolved_pdf)} 件（添付フォルダに見つからないPDF）")
+    print()
 
     # Step 3: 未作成ノートにプレースホルダーを生成
     placeholder_created = 0
@@ -254,7 +255,7 @@ def main() -> None:
     print(f"Links converted  : {total_ok}")
     print(f"Unresolved links : {total_unresolved}")
     if total_unresolved == 0:
-        print("✅ 全 [[リンク]] の変換が完了しました（PDFは除く）。")
+        print("✅ 全 [[リンク]] の変換が完了しました（PDF含む）。")
 
 
 if __name__ == "__main__":

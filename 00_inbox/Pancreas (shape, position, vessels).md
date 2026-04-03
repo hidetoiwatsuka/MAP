@@ -1,1 +1,1 @@
-![[17_A_Small intestines_pancreas and spleen_EMI_1_12_Hanics2026 (dragged) 2.pdf]]
+![17_A_Small intestines_pancreas and spleen_EMI_1_12_Hanics2026 (dragged) 2.pdf](00_Assets/Attachments/17_A_Small%20intestines_pancreas%20and%20spleen_EMI_1_12_Hanics2026%20(dragged)%202.pdf)

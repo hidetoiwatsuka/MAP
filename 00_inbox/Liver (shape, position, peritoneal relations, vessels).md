@@ -1,4 +1,4 @@
-![[18_ Liver, gallbladder (dragged).pdf]]![[liver.pdf]]
+![18_ Liver, gallbladder (dragged).pdf](00_Assets/Attachments/18_%20Liver,%20gallbladder%20(dragged).pdf)![liver.pdf](00_Assets/Attachments/liver.pdf)
 # Liver
 3 surfaces 
 Falciforme lig to right and left coronary lig

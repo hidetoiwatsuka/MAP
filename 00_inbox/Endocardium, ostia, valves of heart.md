@@ -1,1 +1,1 @@
-![[08_A-B_EM_Mediastinum-heart-cavities-valves_pericardium._20260223-25_KK (dragged) 4 1.pdf]]
+![08_A-B_EM_Mediastinum-heart-cavities-valves_pericardium._20260223-25_KK (dragged) 4 1.pdf](00_Assets/Attachments/08_A-B_EM_Mediastinum-heart-cavities-valves_pericardium._20260223-25_KK%20(dragged)%204%201.pdf)
