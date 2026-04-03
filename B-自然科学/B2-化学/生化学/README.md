@@ -2,7 +2,7 @@
 tags:
   - README
 ---
-[biochem_topic_list](biochem_topic_list.md)
+[biochem_topic_list](../../00_inbox/biochem_topic_list.md)
 
 生化学は生命現象を化学の言語で解明します。タンパク質・核酸・糖質・脂質という生体分子とその代謝・シグナル伝達を研究します。
 
