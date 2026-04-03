@@ -9,8 +9,8 @@ tags:
 
 ### General Histology
 
-- Concept of basic tissues
-- Definition and classification of epithelial tissue
+- [[Concept of basic tissues]]
+- [[Definition and classification of epithelial tissue]]
 - Simple epithelia
 - Stratified epithelia
 - Membrane specializations of epithelia

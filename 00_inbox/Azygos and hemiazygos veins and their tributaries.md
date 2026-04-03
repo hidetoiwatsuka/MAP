@@ -1,4 +1,4 @@
-![[Pasted image 20260401152726.png]]
+![Pasted image 20260401152726.png](00_Assets/Attachments/Pasted%20image%2020260401152726.png)
 
 
 ### Tributaries of the Azygos System
@@ -26,4 +26,4 @@ These branches drain the internal organs of the mediastinum:
 - **Pericardial veins:** Drain the sac surrounding the heart.
 
 #### Relation btw trachea / SVC / azygos
-![[Pasted image 20260401155309.png]]
+![Pasted image 20260401155309.png](00_Assets/Attachments/Pasted%20image%2020260401155309.png)

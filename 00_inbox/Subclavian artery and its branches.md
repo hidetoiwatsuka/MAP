@@ -1,4 +1,4 @@
-![[Pasted image 20260401182013.png]]
+![Pasted image 20260401182013.png](00_Assets/Attachments/Pasted%20image%2020260401182013.png)
 
 
 > Remember **Vitamin C and D**

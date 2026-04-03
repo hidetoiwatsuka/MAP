@@ -1,4 +1,4 @@
-![[Pasted image 20260401151827.png]]
+![Pasted image 20260401151827.png](00_Assets/Attachments/Pasted%20image%2020260401151827.png)
 It carries blood from your **digestive organs** (stomach, intestines, etc.) directly to your **liver**.
 
 - GI tract absorbs nutrients → nutrient-rich blood drains into the portal vein

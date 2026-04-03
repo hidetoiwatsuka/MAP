@@ -1,4 +1,4 @@
-![[Pasted image 20260401191329.png]]
+![Pasted image 20260401191329.png](00_Assets/Attachments/Pasted%20image%2020260401191329.png)
 
 ### **Prenatal Circulation**
 

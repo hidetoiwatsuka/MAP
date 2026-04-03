@@ -1,5 +1,5 @@
 
-![[Pasted image 20260401190309.png]]
+![Pasted image 20260401190309.png](00_Assets/Attachments/Pasted%20image%2020260401190309.png)
 
 **Celiac trunk** (unpaired, supplies liver, gallbladder, pancreas, spleen, stomach, duodenum)
 
@@ -23,5 +23,5 @@
         - Anterior and posterior superior pancreaticoduodenal arteries
 
 
-![[Pasted image 20260401190345.png]]
-![[Pasted image 20260401190818.png]]
+![Pasted image 20260401190345.png](00_Assets/Attachments/Pasted%20image%2020260401190345.png)
+![Pasted image 20260401190818.png](00_Assets/Attachments/Pasted%20image%2020260401190818.png)

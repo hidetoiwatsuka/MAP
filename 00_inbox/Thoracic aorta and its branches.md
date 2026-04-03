@@ -1,4 +1,4 @@
-![[Pasted image 20260401185145.png]]
+![Pasted image 20260401185145.png](00_Assets/Attachments/Pasted%20image%2020260401185145.png)
 
 **Thoracic aorta and its branches:**
 

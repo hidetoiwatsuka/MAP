@@ -6,7 +6,7 @@ tags:
 
 基礎医学は臨床医学の科学的基盤となる学問群です。
 
-[[Medical Terminology]]
+[Medical Terminology](../../00_inbox/Medical%20Terminology.md)
 
 ## サブトピック
 

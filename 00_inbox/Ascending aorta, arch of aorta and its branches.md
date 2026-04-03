@@ -1,4 +1,4 @@
-![[Pasted image 20260401180027.png]]
+![Pasted image 20260401180027.png](00_Assets/Attachments/Pasted%20image%2020260401180027.png)
 
 ### Aortic arch
 - brachiocephalic trunk
