@@ -206,7 +206,7 @@ Object → [Objective lens] → Intermediate real image (magnified, inverted)
 
 ### Accommodation
 
-||Farsight (relaxed)|Nearsight (active)|
+|a|Farsight (relaxed)|Nearsight (active)|
 |---|---|---|
 |Ciliary muscle|Relaxed|Contracted|
 |Zonules (ligaments)|Stretched (taut)|Relaxed (slack)|
