@@ -155,8 +155,8 @@ tags:
 
 | No         | Date       | Topic                                              | Lecturer    |
 | ---------- | ---------- | -------------------------------------------------- | ----------- |
-| Bio II - 7 | 2026.04.01 | [[Bioelectric phenomena.]]                         | Kiss Balázs |
-| Bio II - 8 | 2026.04.08 | [[Biophysics of sensory organs. Vision, hearing.]] | Kellermayer |
+| Bio II - 7 | 2026.04.01 | [Bioelectric phenomena.](Bioelectric%20phenomena..md)                         | Kiss Balázs |
+| Bio II - 8 | 2026.04.08 | [Biophysics of sensory organs. Vision, hearing.](Biophysics%20of%20sensory%20organs.%20Vision,%20hearing..md) | Kellermayer |
 
 ### Practices
 
@@ -166,7 +166,7 @@ tags:
 | 24    | Skin Impedance — Determination of skin impedance           |
 | 25    | Audiometry — Hearing threshold measurement                 |
 | 26    | [Sensor](Sensor.md) — Sensory function model, Stevens' law |
-| 27    | [[ECG]] — Principles of electrocardiography                |
+| 27    | [ECG](ECG.md) — Principles of electrocardiography                |
 
 ---
 

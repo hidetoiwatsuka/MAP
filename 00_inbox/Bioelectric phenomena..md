@@ -1,1 +1,1 @@
-![[bioelectric_20260401.pdf]]
+![bioelectric_20260401.pdf](00_Assets/Attachments/bioelectric_20260401.pdf)
